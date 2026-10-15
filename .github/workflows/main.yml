@@ -2,38 +2,34 @@ name: Dnevno Azuriranje Mape
 
 on:
   schedule:
-    # Ovo podešava da se robot pali svake noći u ponoć (00:00)
     - cron: '0 0 * * *'
-  # Ovo dugme nam dozvoljava da i sami upalimo robota kad god želimo
   workflow_dispatch:
+
+permissions:
+  contents: write  # Eksplicitno dajemo dozvolu za pisanje
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Uzmi sav kod iz našeg repozitorijuma
       - name: Preuzimanje koda
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Novija verzija
 
-      # 2. Instaliraj Python (jezik u kom je napisan robot)
       - name: Podešavanje Python-a
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Novija verzija
         with:
           python-version: '3.9'
 
-      # 3. Instaliraj potrebne dodatke za čitanje vesti
       - name: Instalacija dodataka
         run: pip install feedparser
 
-      # 4. Pokreni našeg robota (scraper.py)
       - name: Pokretanje robota
         run: python scraper.py
 
-      # 5. Sačuvaj sve nove vesti u data.json i objavi ih
       - name: Čuvanje novih podataka
         run: |
-          git config --global user.name 'BIRN-Mapa-Bot'
-          git config --global user.email 'bot@birn.rs'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data.json
-          git commit -m "Automatsko osvežavanje mape" || exit 0
+          git commit -m "Automatsko osvežavanje mape" || echo "Nema novih vesti za dodavanje"
           git push
