@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIRN: Monitor izbornih nepravilnosti</title>
+    
+    <!-- Učitavanje Leaflet mape (standard za interaktivne mape) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Učitavanje dodatka za grupisanje tačaka (da mapa ne bude pretrpana) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+    <style>
+        body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+        #map { height: 100vh; width: 100%; }
+        .popup-card { padding: 5px; line-height: 1.4; }
+        .source-tag { 
+            background: #d32f2f; 
+            color: white; 
+            padding: 2px 6px; 
+            font-size: 10px; 
+            text-transform: uppercase; 
+            font-weight: bold; 
+            border-radius: 3px;
+        }
+        h3 { margin: 10px 0 5px 0; font-size: 16px; color: #333; }
+        p { margin: 0 0 10px 0; font-size: 13px; color: #666; }
+        a { color: #0056b3; text-decoration: none; font-weight: bold; font-size: 13px; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <div id="map"></div>
+
+    <script>
+        // 1. Postavljanje mape da gleda u centar Srbije
+        var map = L.map('map').setView([44.0165, 21.0059], 7);
+
+        // 2. Dodavanje svetle podloge mape (profesionalni izgled)
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; BIRN Srbija'
+        }).addTo(map);
+
+        // 3. Pravljenje grupe za markere
+        var markers = L.markerClusterGroup();
+
+        // 4. Učitavanje podataka iz data.json fajla
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(item => {
+                    // Pravljenje jedne tačke (markera) na mapi
+                    var marker = L.marker([item.lat, item.lng]);
+                    
+                    // Sadržaj koji iskače (Pop-up) kada se klikne na tačku
+                    var popupContent = `
+                        <div class="popup-card">
+                            <span class="source-tag">${item.source}</span>
+                            <h3>${item.city}</h3>
+                            <p>${item.title}</p>
+                            <a href="${item.link}" target="_blank">Pročitaj ceo izveštaj →</a>
+                        </div>
+                    `;
+                    
+                    marker.bindPopup(popupContent);
+                    markers.addLayer(marker);
+                });
+                // Dodavanje svih tačaka na mapu odjednom
+                map.addLayer(markers);
+            })
+            .catch(err => console.log('Greška pri učitavanju podataka:', err));
+    </script>
+
+</body>
+</html>
