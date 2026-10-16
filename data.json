@@ -1,5 +1,320 @@
 [
     {
+        "title": "Na kružnom toku u Čačku počelo okupljanje svako veče do izbora, podrška studentima",
+        "link": "https://n1info.rs/vesti/na-kruznom-toku-u-cacku-pocelo-okupljanje-svako-vece-do-izbora-podrska-studentima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Panović (Demostat): Izbori podsećaju na 90-te, dilema je višepartijski sistem ili autokratija",
+        "link": "https://n1info.rs/vesti/panovic-demostat-izbori-podsecaju-na-90-te-dilema-je-visepartijski-sistem-ili-autokratija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Grbović: SNS pokušava da izazove tenzije kako bi odvratio deo birača",
+        "link": "https://n1info.rs/vesti/grbovic-sns-pokusava-da-izazove-tenzije-kako-bi-odvratio-deo-biraca/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Vučić optužuje Hrvatsku za mešanje u izbore, upućena im protestna nota: Plenković kaže - spin",
+        "link": "https://n1info.rs/vesti/aleksandar-vucic-hrvatska-protestna-nota-izbori/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Novinari Nova.rs ostaju na svojim mestima uprkos \"ultimatumu\": Zašto se promene dešavaju baš pred izbore?",
+        "link": "https://n1info.rs/vesti/novinari-novars-ostaju-na-svojim-mestima-uprkos-ultimatumu-zasto-se-promene-desavaju-bas-pred-izbore/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Zašto SNS sad održava skup u Novom Sadu: \"Tinejdžerska želja za dokazivanjem- da pre izbora pokažu da mogu i smeju\"",
+        "link": "https://n1info.rs/vesti/zasto-sns-sad-odrzava-skup-u-novom-sadu-tinejdzerska-zelja-za-dokazivanjem-da-pre-izbora-pokazu-da-mogu-i-smeju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Predstavljanje izbornih lista: Usame Zukorlić",
+        "link": "https://n1info.rs/video/predstavljanje-izbornih-lista-usame-zukorlic/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Centralna izborna komisija Španije pokrenula postupak protiv premijera",
+        "link": "https://n1info.rs/svet/centralna-izborna-komisija-spanije-pokrenula-postupak-protiv-premijera/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Četvrta predizborna debata na N1: Predstavnici izbornih lista o ljudskim pravima i medijskim slobodama",
+        "link": "https://n1info.rs/najave-emisija/cetvrta-predizborna-debata-na-n1-predstavnici-izbornih-lista-o-ljudskim-pravima-i-medijskim-slobodama/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Crvena linija, petak u 20h: O obrazovanju u predizbornim kampanjama u regionu",
+        "link": "https://n1info.rs/najave-emisija/crvena-linija-petak-u-20h-o-obrazovanju-u-predizbornim-kampanjama-u-regionu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Na kružnom toku u Čačku počelo okupljanje građana svako veče do izbora u znak podrške studentima VIDEO",
+        "link": "https://nova.rs/vesti/politika/na-kruznom-toku-u-cacku-pocelo-okupljanje-gradjana-svako-vece-do-izbora-u-znak-podrske-studentima-video/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Kreni-Promeni: Krivične prijave protiv policijskih službenika koji su prikrivali da je Šapić nosio pištolje",
+        "link": "https://nova.rs/vesti/politika/kreni-promeni-podnosim-krivicne-prijave-protiv-policijskih-sluzbenika/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Rasim Ljajić misli da je njegova saradnja sa SNS bila nemoralna: Ipak, ne želi da kaže da posle izbora neće opet u koaliciju s Aleksandrom Vučićem",
+        "link": "https://nova.rs/vesti/politika/rasim-ljajic-misli-da-je-njegova-saradnja-sa-sns-bila-nemoralna-ipak-ne-zeli-da-kaze-da-posle-izbora-nece-opet-u-koaliciju-s-aleksandrom-vucicem/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Top 20 domaćih pesama koje mladenci u 2026. biraju za prvi ples: Neke će vas baš iznenaditi",
+        "link": "https://nova.rs/zabava/showbiz/top-20-domacih-pesama-koje-mladenci-u-2026-biraju-za-prvi-ples-neke-ce-vas-bas-iznenaditi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Broj birača sa Kosova između dva izborna ciklusa u Srbiji povećan za više od 20.000 - kako?",
+        "link": "https://nova.rs/vesti/politika/broj-biraca-sa-kosova-povecan-izmedju-dva-izborna-ciklusa-za-vise-od-20000/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Novosadska policija najavila: Preduzećemo sve da skup SNS na Trgu slobode protekne mirno",
+        "link": "https://nova.rs/vesti/hronika/novosadska-policija-o-skupu-na-trgu-slobode/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Na kružnom toku u Čačku prvo u nizu okupljanja podrške Studentskoj listi do izbora",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/u-cacku-okupljanje-podrske-studentima/",
+        "city": "Kragujevac",
+        "lat": 44.0128,
+        "lng": 20.9114,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Velika pobeda Hajduka u senci incidenata Torcide: Klub se oglasio posle meča Lige konferencije",
+        "link": "https://www.danas.rs/sport/hajduk-split-ajaks-liga-konferencija-torcida-incidenti/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Jovanović (Autentična desnica): Verujem da će se 25. oktobra desiti promene",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/jovanovic-autenticna-desnica-promene/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Grbović (PSG): SNS pokušava da izazove tenzije kako bi odvratio deo birača",
+        "link": "https://www.danas.rs/vesti/politika/grbovic-sns-pokusava-da-izazove-tenzije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Panović: Izbori podsećaju na 90-te, dilema je višepartijski sistem ili autokratija",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/panovic-izbori-podsecaju-na-devedesete/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Jakšić odgovorio na saopštenje MASA: Prezir prema meni ne može da promeni činjenice o Šoškićevom izboru u zvanje redovnog profesora",
+        "link": "https://www.danas.rs/vesti/drustvo/jaksic-odgovorio-masa-prezir-prema-meni-ne-moze-da-promeni-cinjenice-o-soskicevom-izboru-u-zvanje-redovnog-profesora/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Izborni presek: Vučićev skup u Novom Sadu prvi put od pada nadstrešnice",
+        "link": "https://www.danas.rs/bbc-news-serbian/izborni-presek-vucicev-skup-u-novom-sadu-prvi-put-od-pada-nadstresnice/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Koliko je miting SNS u Novom Sadu skup visokog rizika?",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/miting-sns-novi-sad-skup-viskog-rizika/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "„Srbovanje bi moglo Bošnjacima i Hrvatima uzrokovati nevolje“: O najavi Dodika da će Banjaluka biti glavni grad RS, a Pale prestonica",
+        "link": "https://www.danas.rs/svet/o-najavi-dodika-da-ce-banjaluka-biti-glavni-grad-rs-a-pale-prestonica/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Studenti ponovo pozvali Novosađane da ignorišu skup SNS-a, isto poručili i pojedini aktivisti",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/studenti-pozvali-da-se-skup-naprednjaka-u-novom-sadu-ignorise/",
+        "city": "Kraljevo",
+        "lat": 43.7258,
+        "lng": 20.6894,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Protiv španskog premijera Sančeza pokrenut disciplinski postupak zbog funkcionerske kampanje",
+        "link": "https://www.danas.rs/svet/disciplinski-postupak-protiv-pedra-sanceza/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Marta Kos ponovo upozorila Kosovo da su izmene Zakona o Specijalizovanim većima neprihvatljive",
+        "link": "https://www.danas.rs/vesti/politika/marta-kos-kosovo-zakon-o-ovk/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "„Ja sam Spartak“: Scena zbog koje su se sukobili Kirk Daglas i Stenli Kjubrik",
+        "link": "https://www.danas.rs/kultura/spartak-kirk-daglas-stenli-kjubrik-sukob/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Studentsku listu ne treba posmatrati samo kao tehnički instrument za izlazak na izbore",
+        "link": "https://www.danas.rs/dijalog/licni-stavovi/studentsku-listu-ne-treba-posmatrati-samo-kao-tehnicki-instrument-za-izlazak-na-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Zelenović (DS): Na izborima 25. oktobra se odlučuje o oslobađanju države",
+        "link": "https://www.danas.rs/vesti/politika/zelenovic-na-izbori-oslobadjanje-drzave/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Predizborna kampanja u SAD, meso jedna od glavnih tema: Gde je govedina?",
+        "link": "https://www.danas.rs/svet/meso-govedina-sad-kampanja/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Moj predizborni rolerkouster",
+        "link": "https://www.danas.rs/kolumna/marko-vidojkovic/moj-predizborni-rolerkouster/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "Priznanje „Hrabri glas“ za fotografa i aktivistu Gavrila Andrića",
+        "link": "https://crta.rs/rgewrgxwr/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "16.10.2026"
+    },
+    {
+        "title": "NSNP: Besplatna radionica za sve mlade koji se prvi put susreću sa IZBORNIM PROCESOM",
+        "link": "https://infovranjske.rs/nsnp-besplatna-radionica-za-sve-mlade-koji-se-prvi-put-susrecu-sa-izbornim-procesom/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "infovranjske.rs",
+        "date": "16.10.2026"
+    },
+    {
         "title": "Stanković (BCBP) o povećanom broju izdatih ličnih karata: To bi moglo da utiče na rezultat izbora",
         "link": "https://n1info.rs/vesti/stankovic-bcbp-o-povecanom-broju-izdatih-licnih-karata-to-bi-moglo-da-utice-na-rezultat-izbora/",
         "city": "Beograd",
