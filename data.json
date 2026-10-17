@@ -1,5 +1,374 @@
 [
     {
+        "title": "Jovanović: Zalažem se za većinski izborni sistem, opala bi moć partija",
+        "link": "https://n1info.rs/vesti/jovanovic-zalazem-se-za-vecinski-izborni-sistem-opala-bi-moc-partija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "\"Dvostruki doček\" za studente šetače u Boru: S jedne strane ulice njihove, sa druge pristalice SNS",
+        "link": "https://n1info.rs/vesti/dvostruki-docek-za-studente-setace-u-boru-s-jedne-strane-ulice-njihove-sa-druge-strane-pristalice-sns/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Čupić o SNS skupu u Novom Sadu: \"Ako mu je ovo njegovo biračko telo - on je gotov\"",
+        "link": "https://n1info.rs/vesti/cupic-o-sns-skupu-u-novom-sadu-ako-mu-je-ovo-njegovo-biracko-telo-on-je-gotov/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Studentski skup u Jagodini - \"tu smo da širimo ljubav\"",
+        "link": "https://n1info.rs/vesti/studentski-skup-u-jagodini-tu-smo-da-sirimo-ljubav/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Muk nadležnih o Vučićevim pomilovanjima: \"Namerno će se skrivati do izbora\"",
+        "link": "https://n1info.rs/vesti/vucic-pomilovanja-otkrivanje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Održan SNS skup u Novom Sadu, Vučić poručio: \"Završiće se sve ovo 25. oktobra na izborima\"",
+        "link": "https://n1info.rs/vesti/blog-uzivo-sns-skup-novi-sad-izbori-2026/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Incidenti pre početka SNS skupa u Novom Sadu: Napadnut urednik Razglas news, novinarku Mašine odgurnuli kad je pokušala da postavi pitanje Vučiću",
+        "link": "https://n1info.rs/vesti/incidenti-pre-pocetka-sns-skupa-u-novom-sadu-napadnut-urednik-razglas-news-novinarku-masine-odgurnuli-kad-je-pokusala-da-postavi-pitanje-vucicu/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "U Aleksincu ponovo paralelni skupovi SNS i Studentske liste: Situacija na ivici incidenta",
+        "link": "https://n1info.rs/vesti/u-aleksincu-ponovo-paralelni-skupovi-sns-i-studentske-liste/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Ljajić: O mogućnostima Vojvodine se mnogo govori, ali su potrebni konkretni rezultati",
+        "link": "https://n1info.rs/vesti/ljajic-o-mogucnostima-vojvodine-se-mnogo-govori-ali-su-potrebni-konkretni-rezultati/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Dan uživo: SNS miting u Novom Sadu",
+        "link": "https://n1info.rs/najave-emisija/dan-uzivo-sns-miting-u-novom-sadu/",
+        "city": "Novi Sad",
+        "lat": 45.2671,
+        "lng": 19.8335,
+        "source": "n1info.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Jovanović: Srbiji je potrebna promena vlasti, ali i izbornog sistema",
+        "link": "https://nova.rs/vesti/politika/jovanovic-srbiji-je-potrebna-promena-vlasti-ali-i-izbornog-sistema/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Kreni-promeni: Vučićev miting na više od 35 televizija, nezadovoljan pa želi da ugasi N1 i Novu",
+        "link": "https://nova.rs/vesti/politika/kreni-promeni-vucicev-miting-na-vise-od-35-televizija-nezadovoljan-pa-zeli-da-ugasi-n1-i-novu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Oglasila se redakcija televizije N1 o odlasku 10 novinara",
+        "link": "https://nova.rs/vesti/drustvo/oglasila-se-redakcija-n1-o-odlasku-10-novinara/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "\"Dvostruki doček\" za studente šetače u Boru: S jedne strane ulice njihove, sa druge pristalice SNS",
+        "link": "https://nova.rs/vesti/politika/dvostruki-docek-za-studente-setace-u-boru-s-jedne-strane-ulice-njihove-sa-druge-pristalice-sns/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Čupić o SNS skupu u Novom Sadu: \"Ako mu je ovo njegovo biračko telo - on je gotov\"",
+        "link": "https://nova.rs/vesti/politika/cupic-o-sns-skupu-u-novom-sadu-ako-mu-je-ovo-njegovo-biracko-telo-on-je-gotov/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "\"Nova\" u vikend izdanju piše: Miloš Pavlović u predizbornoj kampanji - \"student koji je želeo da uči glumi ministra zdravlja“",
+        "link": "https://nova.rs/vesti/drustvo/nova-u-vikend-izdanju-pise-milos-pavlovic-u-predizbornoj-kampanji-student-koji-je-zeleo-da-uci-glumi-ministra-zdravlja/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "\"Kada postoji tolika razlika u godinama, morala je da prihvati tu činjenicu\": Majkl Daglas rekao da je najbolje da Ketrin Zita-Džouns ne čita njegove memoare",
+        "link": "https://nova.rs/zabava/showbiz/kada-postoji-tolika-razlika-u-godinama-morala-je-da-prihvati-tu-cinjenicu-majkl-daglas-rekao-da-je-najbolje-da-ketrin-zita-dzouns-ne-cita-njegove-memoare/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Oglasio se Rijera dan posle poraza:\"Izgubili smo bitku, ali smo dobili nešto mnogo vrednije\"",
+        "link": "https://nova.rs/sport/fudbal/oglasio-se-rijera-dan-posle-porazaizgubili-smo-bitku-ali-smo-dobili-nesto-mnogo-vrednije/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "BLOG SNS održao predizborni skup u Novom Sadu: Prvo Vučićevo obraćanje u ovom gradu nakon pada nadstrešnice",
+        "link": "https://nova.rs/vesti/politika/blog-uzivo-sns-odrzava-predizborni-miting-u-novom-sadu-traktori-blokirali-deo-centra-grada/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Manje od deset godina karijere, ali neverovatan uspeh: Top pet hitova Tošeta Proeskog",
+        "link": "https://nova.rs/zabava/showbiz/top-5-hitova-toseta-proeskog/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "U Aleksincu ponovo paralelni skupovi SNS i Studentske liste",
+        "link": "https://nova.rs/vesti/politika/u-aleksincu-ponovo-paralelni-skupovi-sns-i-studentske-liste/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Pomeren meč Partizana zbog izbora u Srbiji",
+        "link": "https://nova.rs/sport/kosarka/pomeren-mec-partizana-zbog-izbora-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Incidenti pred početak skupa SNS: Urednik portala Razglas news napadnut u Novom Sadu VIDEO",
+        "link": "https://nova.rs/vesti/hronika/urednik-portala-razglas-news-zarko-bogosavljevic-napadnut-u-novom-sadu-video/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Fico ranije napustio samit EU da dođe u Novi Sad na Vučićev predizborni skup",
+        "link": "https://nova.rs/vesti/politika/fico-ranije-napustio-samit-eu-da-dodje-u-novi-sad-na-vucicev-predizborni-skup/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Stanković (Kreni-Promeni): Vučićev miting večeras prenosilo više od 35 televizija, a on i dalje želi da ugasi N1 i Novu S",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/stankovic-kreni-promeni-vucicev-miting/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Da li se studentskim protestima manipuliše uoči predsedničkih izbora u Francuskoj?",
+        "link": "https://www.danas.rs/svet/da-li-se-studentskim-protestima-manipulise-uoci-predsednickih-izbora-u-francuskoj/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Redakcija N1 oglasila se povodom odlaska deset novinara",
+        "link": "https://www.danas.rs/vesti/drustvo/redakcija-n1-povodom-odlaska-novinara/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "DZVM: Zbog čega SVM ćuti nakon posete Fica Novom Sadu",
+        "link": "https://www.danas.rs/vesti/politika/dzvm-zbog-cega-svm-cuti-nakon-posete-fica-novom-sadu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Čupić o skupu SNS-a: Ako je ovo Vučićevo biračko telo, on je gotov",
+        "link": "https://www.danas.rs/vesti/politika/cupic-sns-vucic-je-gotov/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Studenti koji pešače iz Zaječara stigli u Bor",
+        "link": "https://www.danas.rs/vesti/politika/studenti-koji-pesace-iz-zajecara-stigli-u-bor/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Novinar Mladen Savatović o otkazima kolega i koleginica na N1",
+        "link": "https://www.danas.rs/vesti/drustvo/novinar-savatovic-o-otkazima-na-n1/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Partizanov meč pomeren zbog izbora",
+        "link": "https://www.danas.rs/sport/partizanov-mec-odlozen-zbog-izbora/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Od ulica do biračkih mesta: Šta su studentske šetnje postigle za dve godine?",
+        "link": "https://www.danas.rs/vesti/drustvo/studenti-setnje-protest-miting-izbori-22-oktobar/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Oglasio se Albert Rijera: „Ovo je put kojim želimo da idemo“",
+        "link": "https://www.danas.rs/sport/oglasio-se-albert-rijera-ovo-je-put-kojim-zelimo-da-idemo/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Završen miting SNS-a u Novom Sadu: Fico se obratio na srpskom, Vučić o padu nadstrešnice i otcepljenju Vojvodine (FOTO/VIDEO)",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/sns-miting-novi-sad-izbori-2026/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Evroposlanici od 22. oktobra posmatraju izbore u Srbiji kao deo međunarodne misije",
+        "link": "https://www.danas.rs/vesti/politika/evroposlanici-posmatraju-izbore-od-22-oktobra/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Ruzmarin gospodina Čipulje",
+        "link": "https://www.danas.rs/kolumna/marko-vidojkovic/ruzmarin-gospodina-cipulje/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "„Čini se da je sada već prekasno“: Loše vesti za Trampa uoči izbora za Kongres",
+        "link": "https://www.danas.rs/svet/tramp-lose-vesti-kongres-izbori/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Predsedništvo krije koga je Vučić pomilovao",
+        "link": "https://www.krik.rs/predsednistvo-krije-koga-je-vucic-pomilovao/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.krik.rs",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Vučić sad kaže “da će dati sve od sebe” da budu kažnjeni odgovorni za pad nadstrešnice u Novom Sadu",
+        "link": "https://jugpress.com/vucic-sad-kaze-da-ce-dati-sve-od-sebe-da-budu-kaznjeni-odgovorni-za-pad-nadstresnice-u-novom-sadu/",
+        "city": "Novi Sad",
+        "lat": 45.2671,
+        "lng": 19.8335,
+        "source": "jugpress.com",
+        "date": "17.10.2026"
+    },
+    {
+        "title": "Studenti i građani pešače iz Zaječara ka Beogradu: Na studentski protest na Slaviji stižu u tri kolone",
+        "link": "https://jugpress.com/studenti-i-gradjani-pesace-iz-zajecara-ka-beogradu-na-studentski-protest-na-slaviji-stizu-u-tri-kolone/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "17.10.2026"
+    },
+    {
         "title": "Na kružnom toku u Čačku počelo okupljanje svako veče do izbora, podrška studentima",
         "link": "https://n1info.rs/vesti/na-kruznom-toku-u-cacku-pocelo-okupljanje-svako-vece-do-izbora-podrska-studentima/",
         "city": "Bor",
