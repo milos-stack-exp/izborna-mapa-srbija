@@ -1,5 +1,437 @@
 [
     {
+        "title": "Jedna kolona studenata pešaka stigla u Žagubicu, druga polazi u nedelju iz Gornjeg Milanovca",
+        "link": "https://n1info.rs/vesti/jedna-kolona-studenata-pesaka-stigla-u-zagubicu-druga-polazi-u-nedelju-iz-gornjeg-milanovca/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Vučić: Da nisam promenio lice Beograda, ne bi imali gde da se okupljaju",
+        "link": "https://n1info.rs/vesti/vucic-da-nisam-promenio-lice-beograda-ne-bi-imali-gde-da-se-okupljaju/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Đilas: Evropa je jedini put, a Srbija je pojedena korupcijom",
+        "link": "https://n1info.rs/vesti/djilas-evropa-je-jedini-put-a-srbija-je-pojedena-korupcijom/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Vladisavljević (FPN): Na izborima je ključno pitanje obnova demokratije",
+        "link": "https://n1info.rs/vesti/vladisavljevic-fpn-na-izborima-je-kljucno-pitanje-obnova-demokratije/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Ponoš: Vlast da drži lepljive prste dalje od izborne volje građana",
+        "link": "https://n1info.rs/vesti/ponos-vlast-da-drzi-lepljive-prste-dalje-od-izborne-volje-gradjana/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Picula: Ovo su izbori biti ili ne biti za Vučića",
+        "link": "https://n1info.rs/vesti/picula-ovo-su-izbori-biti-ili-ne-biti-za-vucica/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Crvena linija: O obrazovanju u predizbornim kampanjama u regionu",
+        "link": "https://n1info.rs/video/crvena-linija/crvena-linija-o-obrazovanju-u-predizbornim-kampanjama-u-regionu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Šta nas čeka na biralištima: Da li ćemo opet imati fantomske glasače, bugarski voz i šta znači skok broja ličnih karata za više od 200.000",
+        "link": "https://n1info.rs/vesti/izbori-licne-karte-nepravilnosti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Evroposlanica Joveva kritikovala slovačkog premijera zbog podrške Vučiću",
+        "link": "https://n1info.rs/vesti/evroposlanica-joveva-kritikovala-slovackog-premijera-zbog-podrske-vucicu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Dan nakon dugonajavljivanog mitinga SNS: Zašto je Vučiću Novi Sad bio središnje mesto kampanje",
+        "link": "https://n1info.rs/vesti/dan-nakon-dugonajavljivanog-mitinga-sns-zasto-je-vucicu-novi-sad-bio-sredisnje-mesto-kampanje/",
+        "city": "Novi Sad",
+        "lat": 45.2671,
+        "lng": 19.8335,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Beograd Prajd: Lista \"Aleksandar Vučić - Ujedinjena Srbija\" koristi transfobiju u izbornoj kampanji",
+        "link": "https://n1info.rs/vesti/beograd-prajd-lista-aleksandar-vucic-ujedinjena-srbija-koristi-transfobiju-u-izbornoj-kampanji/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Tema jutra: Radomir Lazović o predstojećim izborima i mitingu SNS u Novom Sadu",
+        "link": "https://n1info.rs/video/novi-dan/tema-jutra-radomir-lazovic-o-predstojecim-izborima-i-mitingu-sns-u-novom-sadu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Debakl Babišove stranke na izborima za Senat parlamenta Češke",
+        "link": "https://n1info.rs/svet/debakl-babisove-stranke-na-izborima-za-senat-parlamenta-ceske/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Od političkog izbora do porodičnog sukoba: Da li Vučić u kampanji gradi emotivnu vezu sa starijim biračima?",
+        "link": "https://n1info.rs/vesti/vucic-stariji-biraci-kampanja-odnos-prema-starima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "ProGlas pozvao dijasporu kojoj je onemogućeno glasanje u inostranstvu da dođe u Srbiju",
+        "link": "https://n1info.rs/vesti/proglas-pozvao-dijasporu-kojoj-je-onemoguceno-glasanje-u-inostranstvu-da-dodje-u-srbiju/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Jedna kolona studenata-pešaka stigla u Žagubicu, druga polazi sutra iz Gornjeg Milanovca VIDEO",
+        "link": "https://nova.rs/vesti/politika/jedna-kolona-studenata-pesaka-stigla-u-zagubicu-druga-polazi-sutra-iz-gornjeg-milanovca-video/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Vučić (Ujedinjena Srbija): Da nisam promenio lice Beograda, ne bi imali gde da se okupljaju",
+        "link": "https://nova.rs/vesti/politika/vucic-ujedinjena-srbija-da-nisam-promenio-lice-beograda-ne-bi-imali-gde-da-se-okupljaju/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Ponoš (Evropska Srbija): Vlast da drži lepljive prste dalje od izborne volje građana",
+        "link": "https://nova.rs/vesti/politika/ponos-evropska-srbija-vlast-da-drzi-lepljive-prste-dalje-od-izborne-volje-gradjana/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Upravni sud odbacio dve žalbe Studentske liste u vezi glasanja u inostranstvu",
+        "link": "https://nova.rs/vesti/politika/upravni-sud-odbacio-dve-zalbe-studentske-liste-u-vezi-glasanja-u-inostranstvu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Putin izgubio Orbana, ali pronašao novog-starog saveznika u EU",
+        "link": "https://nova.rs/vesti/svet/putin-izgubio-orbana-ali-pronasao-novog-starog-saveznika-u-eu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "No pasaran, bre: Autorski tekst R. Femića za \"Vreme\" o pritiscima na Nova.rs",
+        "link": "https://nova.rs/vesti/drustvo/no-pasaran-bre-autorski-tekst-r-femica-za-vreme-o-pritiscima-na-novars/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Evroposlanica Joveva kritikovala slovačkog premijera zbog podrške Vučiću",
+        "link": "https://nova.rs/vesti/politika/evroposlanica-joveva-kritikovala-slovackog-premijera-zbog-podrske-vucicu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "„Majka koja je osvetila sina i srušila Vladu Srbije“: Britanski Telegraf o Dijani Hrki i izborima koji mogu da promene Evropu",
+        "link": "https://nova.rs/vesti/svet/majka-koja-je-osvetila-sina-i-srusila-vladu-srbije-britanski-telegraf-o-dijani-hrki-i-izborima-koji-mogu-da-promene-evropu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Picula: Ovo su izbori biti ili ne biti za Vučića",
+        "link": "https://nova.rs/vesti/politika/picula-ovo-su-izbori-biti-ili-ne-biti-za-vucica/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Dimić (SSP): Građanima u inostranstvu onemogućeno da glasaju u 34 grada, skandal u Kanadi",
+        "link": "https://nova.rs/vesti/politika/dimic-ssp-gradjanima-u-inostranstvu-onemoguceno-da-glasaju-u-34-grada-skandal-u-kanadi/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Tajms: Vučić se oslanja na batinaše, kontrolu medija i Putina, ali studenti mu prete porazom",
+        "link": "https://nova.rs/vesti/svet/tajms-vucic-se-oslanja-na-batinase-kontrolu-medija-i-putina-ali-studenti-mu-prete-porazom/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Najnoviji primer izborne krađe: Na adresu poznatog srpskog novinara Pece Popovića već treći put dolazi poziv za glasanje osobi koja nikad nije živela u njegovoj kući",
+        "link": "https://nova.rs/kultura/najnoviji-primer-izborne-kradje-na-adresu-poznatog-srpskog-novinara-pece-popovica-vec-treci-put-dolazi-poziv-za-glasanje-osobi-koja-nikad-nije-zivela-u-njegovoj-kuci/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "\"Vi ste lenji i nesposobni\": Vučić prvi tražio da se skine zaštita sa Generalštaba. Da li će TOK da ga sasluša sad kad je samo običan građanin bez imuniteta?",
+        "link": "https://nova.rs/vesti/politika/vi-ste-lenji-i-nesposobni-vucic-prvi-trazio-da-se-skine-zastita-sa-generalstaba-da-li-ce-tok-da-ga-saslusa-sad-kad-je-samo-obican-gradjanin-bez-imuniteta/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Debakl Babišove stranke na izborima za Senat parlamenta Češke",
+        "link": "https://nova.rs/vesti/svet/debakl-babisove-stranke-na-izborima-za-senat-parlamenta-ceske/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "U kojoj to zemlji roditelj s prosečnom platom može svojoj deci da kupi dva do tri stana, o kojima priča Siniša Mali?",
+        "link": "https://nova.rs/vesti/biznis/izjava-malog-o-kupovini-stanova-izazvala-ostru-reakciju-javnosti/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Zbog ovoga bi vlast pala i pre izbora: SNS probija sve rekorde, otkrivene tri afere za 72 sata",
+        "link": "https://nova.rs/vesti/politika/zbog-ovoga-bi-vlast-pala-i-pre-izbora-sns-probija-sve-rekorde-otkrivene-tri-afere-za-72-sata/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Bodiroga (Studentska lista): Moramo da napravimo bolje i pravednije društvo",
+        "link": "https://www.danas.rs/vesti/politika/bodiroga-moramo-da-napravimo-bolje-drustvo/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Vučić (Ujedinjena Srbija): Da nisam promenio lice Beograda, ne bi imali gde da se okupljaju",
+        "link": "https://www.danas.rs/vesti/politika/vucic-ujedinjena-srbija-da-nisam-promenio-lice-beograda-ne-bi-imali-gde-da-se-okupljaju/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Vladisavljević (FPN): Na izborima je ključno pitanje obnova demokratije",
+        "link": "https://www.danas.rs/vesti/politika/vladisavljevic-izbori-obnova-demokratije/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Ponoš (Evropska Srbija): Vlast da drži lepljive prste dalje od izborne volje građana",
+        "link": "https://www.danas.rs/vesti/politika/ponos-vlast-dalje-ruuke-od-izborne-volje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Ministar policije tvrdi da je Francuska na udaru žestokog nasilja, ali ne proglašava vanredno stanje",
+        "link": "https://www.danas.rs/svet/ministar-policije-francuske-nasilje-vanredno-stanje/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Evroposlanica Joveva kritikovala slovačkog premijera zbog podrške Vučiću",
+        "link": "https://www.danas.rs/vesti/politika/evroposlanica-joveva-kritikovala-slovackog-premijera-zbog-podrske-vucicu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Jovanović (Autentična desnica): Ratko Mladić je simbol borbe za srpski narod",
+        "link": "https://www.danas.rs/vesti/politika/jovanovic-ratko-mladic-je-simbol-borbe-za-srpski-narod/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Picula: Ovo su izbori biti ili ne biti za Vučića",
+        "link": "https://www.danas.rs/vesti/politika/picula-ovo-su-izbori-biti-ili-ne-biti-za-vucica/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Električni automobil nije za svakoga: Kako da saznate da li vam se kupovina zaista isplati",
+        "link": "https://www.danas.rs/zivot/kupovina-elektricnog-automobila-vazna-pitanja/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Beograd Prajd osudio upotrebu transfobije u predizbornoj kampanji SNS-a",
+        "link": "https://www.danas.rs/vesti/drustvo/beograd-prajd-transfobija-predizborna-kampanja-sns/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Dimić: Vlast se plaši promene, zato građanima u dijaspori uskraćuje biračka mesta",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/dimic-vlast-se-plasi-promene-zato-gradjanima-u-dijaspori-uskracuje-biracka-mesta/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Član RIK-a: Odbijanjem žalbi Studentske liste iscrpljene gotovo sve pravne mogućnosti u vezi sa glasanjem u inostranstvu",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/rik-studentska-lista-galasanje-inostranstvo-pravne-mogucnosti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "GIK organizovala obuku članova biračkih odbora",
+        "link": "https://jugpress.com/gik-organizovala-obuku-clanova-birackih-odbora/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "ProGlas poziva državljane Srbije, koji žive u dijaspori i koji su odlukama državnih organa sprečeni da glasaju u inostranstvu, da izbore provedu u Srbiji",
+        "link": "https://jugpress.com/proglas-poziva-drzavljane-srbije-koji-zive-u-dijaspori-i-koji-su-odlukama-drzavnih-organa-spreceni-da-glasaju-u-inostranstvu-da-izbore-provedu-u-srbiji/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "ANEM ALARM: Odgurivanje, psovke i pretresanje izveštača na mitingu SNS-a u Novom Sadu",
+        "link": "https://jugpress.com/anem-alarm-odgurivanje-psovke-i-pretresanje-izvestaca-na-mitingu-sns-a-u-novom-sadu/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "Radnici u nemilosti politike",
+        "link": "https://jugpress.com/radnici-u-nemilosti-politike/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "18.10.2026"
+    },
+    {
+        "title": "SPS pravi miting u Vranju u utorak",
+        "link": "https://jugpress.com/sps-pravi-miting-u-vranju-u-utorak/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "jugpress.com",
+        "date": "18.10.2026"
+    },
+    {
         "title": "Jovanović: Zalažem se za većinski izborni sistem, opala bi moć partija",
         "link": "https://n1info.rs/vesti/jovanovic-zalazem-se-za-vecinski-izborni-sistem-opala-bi-moc-partija/",
         "city": "Bor",
