@@ -1,5 +1,356 @@
 [
     {
+        "title": "Studenti: Znamo da nam snimaju sastanke i spremaju hapšenja - neće pronaći ništa protivzakonito",
+        "link": "https://n1info.rs/vesti/studenti-znamo-da-nam-snimaju-sastanke-i-spremaju-hapsenja-nece-pronaci-nista-protivzakonito/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Utisak nedelje: \"Srbija sigurno neće biti ista nakon 25. oktobra\"",
+        "link": "https://n1info.rs/vesti/utisak-nedelje-srbija-sigurno-nece-biti-ista-nakon-25-oktobra/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Tramp podržao da Netanjahu ostane premijer Izraela",
+        "link": "https://n1info.rs/vesti/tramp-podrzao-da-netanjahu-ostane-premijer-izraela/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Mirkova borba sa biračkim spiskom: Od opštine do policije bez rešenja",
+        "link": "https://n1info.rs/vesti/mirkova-borba-sa-birackim-spiskom-od-opstine-do-policije-bez-resenja/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Do kraja kampanje još četiri dana: Ogromna SNS mašinerija svela se na tri osobe, studente predstavljaju svih 250 sa liste",
+        "link": "https://n1info.rs/vesti/do-kraja-kampanje-jos-cetiri-dana-sns-masinerija-svela-se-na-tri-osobe-dok-studente-predstavlja-svih-250/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Studenti objavili kada počinje završni skup \"Pobeda zove\" na Slaviji",
+        "link": "https://n1info.rs/vesti/studenti-objavili-kada-pocinje-zavrsni-skup-pobeda-zove-na-slaviji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Ponoš: Ako ne dođe do promene vlasti Srbiju čekaju nemaština, inflacija, vize, gušenje interneta",
+        "link": "https://n1info.rs/vesti/ponos-ako-ne-dodje-do-promene-vlasti-srbiju-cekaju-nemastina-inflacija-vize-gusenje-interneta/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Rašuo: Policija tvrdi kako je zbog tehničke greške u maju dostavila pogrešan podatak o broju važećih ličnih karata",
+        "link": "https://n1info.rs/vesti/rasuo-policija-tvrdi-kako-je-zbog-tehnicke-greske-u-maju-dostavila-pogresan-podatak-o-broju-vazecih-licnih-karata/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Nekad zbog JUL-a, danas zbog SNS: Odlasci, ali i  čistke u SPS-u tokom 36 godina postojanja",
+        "link": "https://n1info.rs/vesti/odliv-clanstva-iz-sps-nekad-jul-danas-sns-izazovi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "TEMA JUTRA: Profesor FPN Dejan Pavlović o predstojećim izborima",
+        "link": "https://n1info.rs/video/novi-dan/tema-jutra-profesor-fpn-dejan-pavlovic-o-predstojecim-izborima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Karić: Srbija ne sme da bude ničiji satelit",
+        "link": "https://n1info.rs/vesti/karic-srbija-ne-sme-da-bude-niciji-satelit/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Dačić u Moskvi: Ruski zvaničnici mi poželeli sreću na izborima",
+        "link": "https://n1info.rs/vesti/dacic-u-moskvi-ruski-zvanicnici-mi-pozeleli-srecu-na-izborima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Srdanović o skupu na Slaviji: Pozivamo na miran i dostojanstven završetak izbornog procesa",
+        "link": "https://n1info.rs/vesti/srdanovic-o-skupu-na-slaviji-pozivamo-na-miran-i-dostojanstven-zavrsetak-izbornog-procesa/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Novi dan: Skok broja birača na Kosovu",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-skok-broja-biraca-na-kosovu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Partizan se oglasio hitnim saopštenjem: \"Zahtevamo da se objave snimci\"",
+        "link": "https://nova.rs/sport/fudbal/partizan-se-oglasio-hitnim-saopstenjem-zahtevamo-da-se-objave-snimci/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Sudija Majić u \"Utisku\": Nenad Stefanović organizuje \"posebna\" dežurstva podobnih tužilaca za izborni dan, to znači da očekuju veliki broj privođenja",
+        "link": "https://nova.rs/vesti/hronika/sudija-majic-u-utisku-nenad-stefanovic-organizuje-posebna-dezurstva-podobnih-tuzilaca-za-izborni-dan-to-znaci-da-ocekuju-veliki-broj-privodjenja/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Gosti \"Utiska nedelje\": \"Srbija sigurno neće biti ista nakon 25. oktobra\"",
+        "link": "https://nova.rs/vesti/politika/gosti-utiska-nedelje-srbija-sigurno-nece-biti-ista-nakon-25-oktobra/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Tramp podržao da Netanjahu ostane premijer Izraela",
+        "link": "https://nova.rs/vesti/svet/tramp-podrzao-da-netanjahu-ostane-premijer-izraela/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Studenti FDU za Nova.rs o spotovima zbog kojih se vlast ljuti: Smišljamo ih uz kafu, bez pripreme jer nam materijal daju oni sami",
+        "link": "https://nova.rs/vesti/drustvo/studenti-fdu-za-novars-o-spotovima-zbog-kojih-se-vlast-ljuti/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Studenti upozoravaju: Znamo da vlast snima naše sastanke, spremaju hapšenja pred predizborni skup na Slaviji",
+        "link": "https://nova.rs/vesti/politika/studenti-upozoravaju-znamo-da-vlast-snima-nase-sastanke-spremaju-hapsenja-pred-predizborni-skup-na-slaviji-necete-cuti-nista-protivzakonito/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "\"Nova\" piše: Još jedna \"poplava\" fantomskih birača",
+        "link": "https://nova.rs/vesti/drustvo/nova-pise-jos-jedna-poplava-fantomskih-biraca/",
+        "city": "Rača",
+        "lat": 44.2258,
+        "lng": 20.9786,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Ponoš: Ako ne dođe do promene vlasti Srbiju čekaju nemaština, inflacija, vize, gušenje interneta",
+        "link": "https://nova.rs/vesti/politika/ponos-ako-ne-dodje-do-promene-vlasti-srbiju-cekaju-nemastina-inflacija-vize-gusenje-interneta/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "\"Pobeda zove\": Studenti objavili kada počinje njihov završni predizborni skup na Slaviji",
+        "link": "https://nova.rs/vesti/politika/pobeda-zove-studenti-objavili-kada-pocinje-zavrsni-predizborni-skup-na-slaviji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Rašuo: Policija priznala da je zbog „tehničke greške“ dostavila pogrešan podatak o broju važećih ličnih karata",
+        "link": "https://nova.rs/vesti/politika/rasuo-policija-priznala-da-je-zbog-tehnicke-greske-dostavila-pogresan-podatak-o-broju-vazecih-licnih-karata/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "DPK: Hamza je saopštio da će podneti ostavku i da se neće ponovo kandidovati na novim izborima",
+        "link": "https://www.danas.rs/vesti/politika/dpk-kosovo-hamza-se-nece-kandidovati/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Tramp podržao da Netanjahu ostane premijer Izraela",
+        "link": "https://www.danas.rs/svet/tramp-podrzao-da-netanjahu-ostane-premijer-izraela/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "„Srbija sigurno neće biti ista nakon 25. oktobra“: Gosti Utiska nedelje o značaju predstojećih izbora",
+        "link": "https://www.danas.rs/vesti/politika/utisak-nedelje-znacaj-izbora-25-oktobra/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Ponoš (Evropska Srbija): Glas za studentsku listu je samo pola koraka ka EU",
+        "link": "https://www.danas.rs/vesti/politika/ponos-evropska-srbija-glas-za-studentsku-listu-je-samo-pola-koraka-ka-eu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Studenti: Znamo da nam snimaju sastanke i spremaju hapšenja – neće pronaći ništa protivzakonito",
+        "link": "https://www.danas.rs/vesti/politika/studenti-znamo-da-nam-spremaju-hapsenja/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "„Od francuske legije do pravoslavno-slovenskog bloka“: Ruski Insajder otkriva ko su Putinovi ljudi u Evropskom parlamentu",
+        "link": "https://www.danas.rs/svet/ruski-insajder-putin-ep/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Oglasio se i Vučić o neredima u Evropi: Meloni i Makronu poželeo mnogo sreće",
+        "link": "https://www.danas.rs/vesti/politika/vucic-neredi-evropa-meloni-makron/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "MUP priznao grešku: Zbog tehničke greške dostavili pogrešan podatak o broju ličnih karata",
+        "link": "https://www.danas.rs/vesti/politika/rasuo-mup-licne-karte/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Nedeljni izborni presek: SNS miting u Novom Sadu, studentska pešačenja ka Beogradu i ko će sve posmatrati izbore",
+        "link": "https://www.danas.rs/bbc-news-serbian/nedeljni-izborni-presek-sns-miting-u-novom-sadu-studentska-pesacenja-ka-beogradu-i-ko-ce-sve-posmatrati-izbore/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Bogoljub Karić: Razgovaramo sa svima, ali odlučujemo sami, u interesu Srbije",
+        "link": "https://www.danas.rs/vesti/politika/karic-odlucujemo-sami/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Povratak Kejnsa ili kako je duga ruka države pobedila nevidljivu ruku tržišta",
+        "link": "https://www.danas.rs/vesti/ekonomija/povratak-kejnsa-ili-kako-je-duga-ruka-drzave-pobedila-nevidljivu-ruku-trzista/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Koliko podrške koje stižu izbornim listama iz sveta mogu da promene stav birača pred vanredne izbore?",
+        "link": "https://www.danas.rs/vesti/politika/svet-izbori-u-srbiji-biraci-podrska/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Nikezić: Otkazaćemo EKSPO",
+        "link": "https://jugpress.com/nikezic-otkazacemo-ekspo/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Tepić: Ovo je poslednji voz ka EU",
+        "link": "https://jugpress.com/tepic-ovo-je-poslednji-voz-ka-eu/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "19.10.2026"
+    },
+    {
+        "title": "Oglašavanje na JUGpress-u: Prilika da se vaš glas čuje!",
+        "link": "https://jugpress.com/oglasavanje-na-jugpress-u-prilika-da-se-vas-glas-cuje/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "jugpress.com",
+        "date": "19.10.2026"
+    },
+    {
         "title": "Jedna kolona studenata pešaka stigla u Žagubicu, druga polazi u nedelju iz Gornjeg Milanovca",
         "link": "https://n1info.rs/vesti/jedna-kolona-studenata-pesaka-stigla-u-zagubicu-druga-polazi-u-nedelju-iz-gornjeg-milanovca/",
         "city": "Beograd",
