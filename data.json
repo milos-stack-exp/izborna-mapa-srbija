@@ -1,5 +1,392 @@
 [
     {
+        "title": "Dačić u Leskovcu: SPS je najveća brana da se ne ponovi 5. oktobar",
+        "link": "https://n1info.rs/vesti/dacic-u-leskovcu-sps-je-najveca-brana-da-se-ne-ponovi-5-oktobar/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "SRCE: Orlić, Brnabić i Vučić stvaraju atmosferu da su politički protivnici pretnja državi",
+        "link": "https://n1info.rs/vesti/srce-orlic-brnabic-i-vucic-stvaraju-atmosferu-da-su-politicki-protivnici-pretnja-drzavi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Američki senatori: Zabrinjavajući znaci uoči izbora u Srbiji, tražimo ravnopravne uslove za sve",
+        "link": "https://n1info.rs/vesti/americki-senatori-zabrinjavajuci-znaci-uoci-izbora-u-srbiji-traze-ravnopravne-uslove-za-sve/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Studenti pešače ka Beogradu: \"Pozdravljali nas vozači kamiona sa nalepnicama Srbija pobeđuje\"",
+        "link": "https://n1info.rs/vesti/studenti-pesace-ka-beogradu-spojile-se-grupe-iz-valjeva-i-gornjeg-milanovca-krenula-kolona-iz-novog-sada/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Independent o izborima u Srbiji: Obe strane mogle bi da proglase pobedu u izbornoj noći, Vučić ne bi priznao poraz ukoliko izgubi",
+        "link": "https://n1info.rs/vesti/independent-o-izborima-u-srbiji-obe-strane-mogle-bi-da-proglase-pobedu-u-izbornoj-noci-vucic-ne-bi-priznao-poraz-ukoliko-izgubi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "\"Na neki način njih Niš 'boli'\": Pripreme za miting SNS, studentski pokret pozvao građane da ga ignorišu",
+        "link": "https://n1info.rs/vesti/miting-sns-nis/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Global fokus: Izbori i promene",
+        "link": "https://n1info.rs/video/global-fokus/global-fokus-izbori-i-promene/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Dracena je jedna od najzahvalnijih sobnih biljaka, ali ove greške mogu da je unište",
+        "link": "https://n1info.rs/magazin/lifestyle/dracena-je-jedna-od-najzahvalnijih-sobnih-biljaka-ali-ove-greske-mogu-da-je-uniste/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Šta će izbori u Srbiji doneti kosovskim Srbima?",
+        "link": "https://n1info.rs/vesti/sta-ce-izbori-u-srbiji-doneti-kosovskim-srbima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Stevanović: Novinari Nova.rs održali lekciju kako se brani redakcija, pritisci na nezavisne medije sve brutalniji pred izbore",
+        "link": "https://n1info.rs/vesti/stevanovic-novinari-novars-odrzali-lekciju-kako-se-brani-redakcija-pritisci-na-nezavisne-medije-sve-brutalniji-pred-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Milivojević: Vučić je svestan da gube izbore, spremni smo da odbranimo izbornu volju",
+        "link": "https://n1info.rs/vesti/milivojevic-vucic-je-svestan-da-gube-izbore-spremni-smo-da-odbranimo-izbornu-volju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Tepić: Pokrenućemo obračun sa korupcijom kakav Srbija nikada nije videla",
+        "link": "https://n1info.rs/vesti/tepic-pokrenucemo-obracun-sa-korupcijom-kakav-srbija-nikada-nije-videla/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Srdanović: Studentska lista će osvojiti dominantnu većinu, spremni smo da branimo izborne rezultate",
+        "link": "https://n1info.rs/vesti/srdanovic-studentska-lista-ce-osvojiti-dominantnu-vecinu-spremni-smo-da-branimo-izborne-rezultate/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Ceca Bojković: Vlast zastrašuje narod, a Vučić je počeo i porodice da zavađa - savetuje penzionerima da ne slušaju unuke",
+        "link": "https://n1info.rs/vesti/ceca-bojkovic-vlast-zastrasuje-narod-a-vucic-je-poceo-i-porodice-da-zavadja-savetuje-penzionerima-da-ne-slusaju-unuke/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Konaković za N1: SNSD je morao da ispuni naše zahteve da bi državljani Srbije glasali u BiH",
+        "link": "https://n1info.rs/region/konakovic-snsd-ispuni-nase-zahteve-drzavljani-srbije-glasali-u-bih/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Komunalni inspektori naredili uklanjanje bine za predizborni skup SNS u Nišu",
+        "link": "https://nova.rs/vesti/politika/komunalni-inspektori-naredili-uklanjanje-bine-za-predizborni-skup-sns-u-nisu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Dolovac naložila svim tužilaštvima da za 24 časa formiraju predmete po prijavama za izborna krivična dela",
+        "link": "https://nova.rs/vesti/hronika/dolovac-nalozila-svim-tuzilastvima-da-za-24-casa-formiraju-predmete-po-prijavama-za-izborna-krivicna-dela/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "SRCE od Vlade, Brnabić i Orlića traži da jasno kažu da ne planiraju vanredno stanje",
+        "link": "https://nova.rs/vesti/politika/srce-od-vlade-brnabic-i-orlica-trazi-da-jasno-kazu-da-ne-planiraju-vanredno-stanje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Američki senatori: Zabrinjavajući znaci uoči izbora u Srbiji, tražimo ravnopravne uslove za sve",
+        "link": "https://nova.rs/vesti/politika/americki-senatori-zabrinjavajuci-znaci-uoci-izbora-u-srbiji-trazimo-ravnopravne-uslove-za-sve/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Independent o izborima u Srbiji: Obe strane mogle bi da proglase pobedu u izbornoj noći, Vučić ne bi priznao poraz ukoliko izgubi",
+        "link": "https://nova.rs/vesti/politika/independent-o-izborima-u-srbiji-obe-strane-mogle-bi-da-proglase-pobedu-u-izbornoj-noci-vucic-ne-bi-priznao-poraz-ukoliko-izgubi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Novi botovski napadi na nezavisne medije i kritičare vlasti: Na udaru Cenzolovka, Vreme, Razglas njuz, Crta i drugi",
+        "link": "https://nova.rs/vesti/drustvo/novi-botovski-napadi-na-nezavisne-medije-i-kriticare-vlasti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Tepić: Pokrenućemo obračun sa korupcijom kakav Srbija nikada nije videla",
+        "link": "https://nova.rs/vesti/politika/pokrenucemo-obracun-sa-korupcijom-kakav-srbija-nikada-nije-videla/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "\"Na neki način njih Niš 'boli'\": Pripreme za miting SNS, studentski pokret pozvao građane da ga ignorišu",
+        "link": "https://nova.rs/vesti/politika/pripreme-za-miting-sns-studentski-pokret-pozvao-gradjane-da-ga-ignorisu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Milivojević: Vučić je svestan da gube izbore, spremni smo da odbranimo izbornu volju",
+        "link": "https://nova.rs/vesti/politika/vucic-je-svestan-da-gube-izbore-spremni-smo-da-odbranimo-izbornu-volju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Ceca Bojković o Vučiću: \"Malo je što je zavadio narod, sad je i porodicu zavadio\"",
+        "link": "https://nova.rs/zabava/showbiz/ceca-bojkovic-o-vucicu-malo-je-sto-je-zavadio-narod-sad-je-i-porodicu-zavadio/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Podcast DLZ i Safeta Biševac: Tama bledi, zora rudi, Srbija se budi",
+        "link": "https://nova.rs/emisije/podcast-dlz-i-safeta-bisevac-tama-bledi-zora-rudi-srbija-se-budi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Ko je pevačica koja je pretučena posle nastupa u Ofenbahu? Odrasla u bedi: \"Roditelji su živeli u Beču, a ja među pilićima i kokoškama\"",
+        "link": "https://nova.rs/zabava/showbiz/ko-je-pevacica-koja-je-pretucena-posle-nastupa-u-ofenbahu-odrasla-u-bedi-roditelji-su-ziveli-u-becu-a-ja-medju-pilicima-i-kokoskama/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Bojković: Izlaznost će biti velika, optimistična sam kada je reč o ishodu izbora",
+        "link": "https://www.danas.rs/kultura/bojkovica-o-izborima-izlaznost/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Američki senatori: Zabrinjavajući znaci uoči izbora u Srbiji",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/americki-senatori-izbori-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Poledica ukazao na kršenje pravila u FSS: „Etički kodeks ne sme da se primenjuje samo na politički nepodobne“",
+        "link": "https://www.danas.rs/sport/mirko-poledica-fss-eticki-kodeks/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "10 triler serija na Netfliksu koje će vas prikovati za ekran od prvih minuta",
+        "link": "https://www.danas.rs/kultura/10-triler-serija-na-netfliksu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "„Vučić ne bi priznao poraz ukoliko izgubi, studenti su ključ“: Britanski Independent o izborima u Srbiji",
+        "link": "https://www.danas.rs/svet/independent-srbija-izbori-vucic/",
+        "city": "Kragujevac",
+        "lat": 44.0128,
+        "lng": 20.9114,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Zašto je važno da građani na birališta izađu u što većem broju u ranim jutarnjim satima?",
+        "link": "https://www.danas.rs/vesti/politika/zasto-glasati-ujutru-biralista/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Srdanović (Studentska lista): Osvojićemo dominantnu većinu u Skupštini Srbije",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/srdanovic-studentska-lista-osvojicemo-vecinu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Četiri scenarija za izbore: Od krize pa do „izdaje“",
+        "link": "https://www.danas.rs/dijalog/licni-stavovi/cetiri-scenarija-za-izbore-od-krize-pa-do-izdaje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Izborni presek: Bivši čelnici BIA i VBA traže od policije da ‘ostane verna Ustavu’",
+        "link": "https://www.danas.rs/bbc-news-serbian/izborni-presek-bivsi-celnici-bia-i-vba-traze-od-policije-da-ostane-verna-ustavu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Potvrđen dolazak posmatrača Evropskog parlamenta na izbore u Srbiji",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/potvrdjen-dolazak-posmatraca-ep/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Vučić: Razlika je bila i više od 20 odsto u njihovu korist, a sada je samo 1,5 odsto",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/vucic-razlika-je-bila-i-vise-od-20-odsto/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Odobreno: Državljani Srbije u BiH mogu da glasaju na izborima u nedelju",
+        "link": "https://www.danas.rs/svet/region/glasanje-bih-izbori-srbija-2026/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Građani koji zbog bolesti, starosti ili invaliditeta ne mogu da glasaju na biračkom mestu, mogu glasati od kuće",
+        "link": "https://jugpress.com/gradjani-koji-zbog-bolesti-starosti-ili-invaliditeta-ne-mogu-da-glasaju-na-birackom-mestu-mogu-glasati-od-kuce/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Predizborni skup SNS ispred muzeja",
+        "link": "https://jugpress.com/predizborni-skup-sns-ispred-muzeja/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Stigao izborni materijal",
+        "link": "https://jugpress.com/stigao-izborni-materijal/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "21.10.2026"
+    },
+    {
+        "title": "Karić obećao da će penzije biti 1.500 evra",
+        "link": "https://jugpress.com/karic-obecao-da-ce-penzije-biti-1-500-evra/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "21.10.2026"
+    },
+    {
         "title": "Federalne vlasti SAD uhapsile tridesetak ljudi u Kaliforniji jer su glasali iako nisu državljani",
         "link": "https://n1info.rs/svet/federalne-vlasti-sad-uhapsile-tridesetak-ljudi-u-kaliforniji-jer-su-glasali-iako-nisu-drzavljani/",
         "city": "Bor",
