@@ -1,5 +1,347 @@
 [
     {
+        "title": "Stanić o dočeku studenata: Kao kad oslobodioci ulaze u velike gradove posle okupacije",
+        "link": "https://n1info.rs/vesti/stanic-o-doceku-studenata-kao-kad-oslobodioci-ulaze-u-velike-gradove-posle-okupacije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Arhiv javnih skupova objavio procenu broja ljudi na predizbornom skupu SNS-a u Nišu",
+        "link": "https://n1info.rs/vesti/arhiv-javnih-skupova-objavio-procenu-broja-ljudi-na-predizbornom-skupu-sns-a-u-nisu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Ljajić u Novom Pazaru: Vratićemo normalnost Sandžaku",
+        "link": "https://n1info.rs/vesti/ljajic-u-novom-pazaru-vraticemo-normalnost-sandzaku/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Održana poslednja predizborna konvencija liste Evropska Srbija: Evropske integracije primarni politički cilj",
+        "link": "https://n1info.rs/vesti/odrana-poslednja-konvencija-liste-evropska-srbija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Gledajte UŽIVO N1 direktno: Dolazak studenata u Beograd, završna konvencija Evropske Srbije i skup SNS u Nišu",
+        "link": "https://n1info.rs/najave-emisija/n1-direktno-dolazak-studenta-u-beograd-zavrsna-konvencija-evropske-srbije-i-skup-sns-u-nisu/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Peter Mađar najavio nastavak istraživanja korupcije i zloupotreba vlasti Viktora Orbana",
+        "link": "https://n1info.rs/svet/peter-madjar-najavio-nastavak-istrazivanja-korupcije-viktora-orbana/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "(FOTO) Pristalice SNS-a se fotografisale sa \"kartonskim Vučićem\" nakon skupa u Nišu",
+        "link": "https://n1info.rs/vesti/foto-prisalice-sns-a-se-fotografisale-sa-kartonskim-vucicem-nakon-skupa-u-nisu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Student: Kampanja režima nije bila usmerena na program već da demorališe građane",
+        "link": "https://n1info.rs/vesti/student-slavija-mesto-gde-se-na-kraju-skupljamo-jedino-prirodno-da-tu-zavrsimo-kampanju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Dragan Milić o mitingu SNS u Nišu: Potpuni debakl i fijasko oproštajnog skupa",
+        "link": "https://n1info.rs/vesti/dragan-milic-o-mitingu-sns-u-nisu-potpuni-debakl-i-fijasko-oprostajnog-skupa/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "\"Režim ponovo pušta isti film pred izbore\": Akcije hapšenja u više gradova",
+        "link": "https://n1info.rs/vesti/rezim-ponovo-pusta-isti-film-pred-izbore-akcije-hapsenja-u-vise-gradova/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Predsednik AKB: Hapšenja uoči izbora bude sumnju u političku instrumentalizaciju policije i tužilaštva",
+        "link": "https://n1info.rs/vesti/predsednik-akb-hapsenja-izbori2026-sumnja-politicka-instrumentalizacija/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Šta BiH očekuje od izbora u Srbiji?",
+        "link": "https://n1info.rs/region/sta-bih-ocekuje-od-izbora-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "CNN: Demokrate imaju 10 odsto prednosti nad republikancima pred međuizbore u SAD",
+        "link": "https://nova.rs/vesti/svet/cnn-demokrate-imaju-10-odsto-prednosti-nad-republikancima-pred-medjuizbore-u-sad/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Parlament Burkine Faso pod komandom vojne hunte jednoglasno vratio smrtnu kaznu",
+        "link": "https://nova.rs/vesti/svet/parlament-burkine-faso-pod-komandom-vojne-hunte-jednoglasno-vratio-smrtnu-kaznu/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Samo Evropska Srbija je garancija ubrzanog puta u EU i napretka zemlje",
+        "link": "https://nova.rs/vesti/politika/samo-evropska-srbija-je-garancija-ubrzanog-puta-u-eu-i-napretka-zemlje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "\"Šok je da se Zagorka Dolovac probudila posle 17 godina\": Bivša tužiteljka o uputstvu koje je vrhovna javna tužiteljka potpisala pet dana pred izbore",
+        "link": "https://nova.rs/vesti/hronika/sok-je-da-se-zagorka-dolovac-probudila-posle-17-godina-bivsa-tuziteljka-o-uputstvu-koje-je-vrhovna-javna-tuziteljka-potpisala-pet-dana-pred-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Peter Mađar najavio nastavak istrage o korupciji i zloupotrebama vlasti Viktora Orbana",
+        "link": "https://nova.rs/vesti/svet/peter-madjar-najavio-nastavak-istrage-o-korupciji-i-zloupotrebama-vlasti-viktora-orbana/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Marinika Tepić: Ljudi naivno misle da je nemoguće da nam ponovo uvedu vize",
+        "link": "https://nova.rs/vesti/politika/marinika-tepic-ljudi-naivno-misle-da-je-nemoguce-da-nam-ponovo-uvedu-vize/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Tajni snimci dokazuju manipulacije u vezi s prijavljivanjem za glasanje u Beču",
+        "link": "https://nova.rs/vesti/politika/tajni-snimci-dokazuju-manipulacije-u-vezi-s-prijavljivanjem-za-glasanje-u-becu/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Ljajić u Novom Pazaru: Vratićemo normalnost Sandžaku",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/ljajic-u-novom-pazaru-vraticemo-normalnost-sandzaku/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Arhiv javnih skupova: Na skupu SNS u Nišu bilo 19.000 ljudi",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/arhiv-javnih-skupova-na-skupu-sns-u-nisu-bilo-19-000-ljudi/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Ekološki gresi „svevišnjeg“",
+        "link": "https://www.danas.rs/dijalog/licni-stavovi/ekoloski-gresi-svevisnjeg/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Ne pokoravajte se jednom političaru: Šta unuci treba da nauče od nas, svojih baka i deka?",
+        "link": "https://www.danas.rs/dijalog/licni-stavovi/ne-pokoravajte-se-jednom-politicaru/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Kompanija Meta treba da plati 25 milijardi dolara američkoj državi Novi Meksiko zbog varanja potrošača",
+        "link": "https://www.danas.rs/vesti/ekonomija/kompanija-meta-kazna-25-milijardi/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "INTERVJU Dejan Jovanović iz Romskog akademskog kruga: „Prvi izbori bez romskih partija, pokrenuli smo kampanju protiv kupovine glasova“",
+        "link": "https://www.danas.rs/vesti/politika/dejan-jovanovic-romski-akademski-krug-izbori-romske-partije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Vučić na skupu u Nišu: Doveo sam 11 fabrika, a dovešćemo još 20 u pet okruga na jugu",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/vucic-u-nisu-doveo-sam-11-fabrika/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Kandidati i pristalice Studentske liste peške pristižu u Beograd",
+        "link": "https://www.danas.rs/bbc-news-serbian/kandidati-i-pristalice-studentske-liste-peske-pristizu-u-beograd/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Dragan Milić: Predizborni skup SNS u Nišu doživeo potpuni debakl i fijasko",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/dragan-milic-predizborni-skup-sns-u-nisu-doziveo-potpuni-debakl-i-fijasko/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "„Ako Studentska lista pobedi na izborima u Srbiji potresi će se osetiti širom Evrope“: Miša Gleni o Vučiću koji je „prvi put u defanzivi“",
+        "link": "https://www.danas.rs/svet/misa-gleni-srbija-izbori-vucic/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Više od 40 privrednika podržalo Studentsku listu",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/privrednici-podrzali-studentsku-listu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Ministar Konaković kaže da je naterao Dodika da poštuje državu Bosnu i Hercegovinu",
+        "link": "https://www.danas.rs/svet/region/ministar-konakovic-kaze-da-je-naterao-dodika-da-postuje-drzavu-bosnu-i-hercegovinu/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Predsednik Advokatske komore Beograda osudio hapšenja uoči izbora",
+        "link": "https://www.danas.rs/vesti/drustvo/predsednik-advokatske-komore-beograda-osudio-hapsenja-uoci-izbora/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Javne ličnosti mađarske zajednice u Vojvodini podržale Studentsku listu",
+        "link": "https://www.danas.rs/vesti/drustvo/madjarska-zajednica-vojvodina-podrska-studentska-lista/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Izveštaj Posmatračke misije Crte o izbornoj kampanji: Manje slobode, više neravnopravnosti",
+        "link": "https://crta.rs/izvestaj-posmatracke-misije-crte-o-izbornoj-kampanji-manje-slobode-vise-neravnopravnosti-2/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Izveštaj Posmatračke misije Crte o izbornoj kampanji: Manje slobode, više neravnopravnosti",
+        "link": "https://crta.rs/izvestaj-posmatracke-misije-crte-o-izbornoj-kampanji-manje-slobode-vise-neravnopravnosti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Tajni snimci dokazuju manipulacije u vezi sa prijavljivanjem za glasanje u Beču",
+        "link": "https://www.krik.rs/tajni-snimci-dokazuju-manipulacije-u-vezi-sa-prijavljivanjem-za-glasanje-u-becu/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.krik.rs",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "U Vranjskoj Banji više birača nego stanovnika",
+        "link": "https://jugpress.com/u-vranjskoj-banji-vise-biraca-nego-stanovnika/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "jugpress.com",
+        "date": "22.10.2026"
+    },
+    {
+        "title": "Izveštaj CRTE o kampanji: Manje slobode, više neravnopravnosti",
+        "link": "https://jugpress.com/izvestaj-crte-o-kampanji-manje-slobode-vise-neravnopravnosti/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "22.10.2026"
+    },
+    {
         "title": "Dačić u Leskovcu: SPS je najveća brana da se ne ponovi 5. oktobar",
         "link": "https://n1info.rs/vesti/dacic-u-leskovcu-sps-je-najveca-brana-da-se-ne-ponovi-5-oktobar/",
         "city": "Bor",
