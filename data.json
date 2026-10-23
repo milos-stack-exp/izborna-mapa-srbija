@@ -1,5 +1,599 @@
 [
     {
+        "title": "Počela izborna tišina",
+        "link": "https://n1info.rs/vesti/pocela-izborna-tisina/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Arhiv javnih skupova objavio koliko je ljudi bilo na skupu Studentske liste na Slaviji",
+        "link": "https://n1info.rs/vesti/arhiv-javnih-skupova-objavio-koliko-je-ljudi-bilo-na-skupu-studentske-liste-na-slaviji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Ucena najugroženijih i zloupotrebe unutar sistema: Centri za socijalni rad pod političkim pritiskom",
+        "link": "https://n1info.rs/vesti/ucena-najugrozenijih-i-zloupotrebe-unutar-sistema-centri-za-socijalni-rad-pod-politickim-pritiskom/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "(BLOG) Reke ljudi na Slaviji na završnom skupu Studentske liste: \"Podseća na 15. mart i miriše na slobodu\"",
+        "link": "https://n1info.rs/vesti/blog-zavrsni-skup-liste-studenti-pobedjuju-slavija-22-oktobar/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Završni skup Studentske liste na Slaviji u videu od tri minuta",
+        "link": "https://n1info.rs/video/zavrsni-skup-studentske-liste-na-slaviji-u-videu-od-tri-minuta/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "AP o završnom skupu Studentske liste: Stotine hiljada ljudi na Slaviji pred napet izborni vikend",
+        "link": "https://n1info.rs/vesti/ap-o-zavrsnom-skupu-studentske-liste-stotine-hiljada-ljudi-na-slaviji-pred-napet-izborni-vikend/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Naprednjaci se okupili u Novom Sadu: Blokirano više ulica, deo njih skandirao Mladiću",
+        "link": "https://n1info.rs/vesti/naprednjaci-se-okupili-u-novom-sadu-blokirano-vise-ulica-deo-njih-skandirao-mladicu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Vlajić: Izborni dan će biti napet, verovatna su tri scenarija",
+        "link": "https://n1info.rs/vesti/vlajic-izborni-dan-ce-biti-napet-verovatna-su-tri-scenarija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Ubiću te kao kera\": Ratni veteran iz Doljevca tvrdi da mu je pretio lokalni šef SNS-a, pa je morao da napusti mesto",
+        "link": "https://n1info.rs/vesti/ubicu-te-kao-kera-ratni-veteran-iz-doljevca-tvrdi-da-mu-je-pretio-lokalni-sef-sns-a-pa-je-morao-da-napusti-mesto/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Evropska Srbija: Prekid evrointegracija gura Srbiju u rupu bez dna, starije generacije mogu trajno da zaborave na san o EU",
+        "link": "https://n1info.rs/vesti/evropska-srbija-prekid-evrointegracija-gura-srbiju-u-rupu-bez-dna-starije-generacije-mogu-trajno-da-zaborave-na-san-o-eu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Kako su strani influenseri promovisali SNS i Srbiju: \"Hrišćanska i rasno čista zemlja\"",
+        "link": "https://n1info.rs/vesti/strani-influenseri-promovisali-sns-hriscanska-rasno-cista-zemlja/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Pretresi i privođenja uoči izbora: Advokati upozoravaju - obrazac već viđen, cilj je obeshrabrivanje birača",
+        "link": "https://n1info.rs/vesti/pretresi-privodjenja-izbori-obrazac-vec-vidjen-cilj-obeshrabrivanje-biraca/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "(FOTO) Skup na Slaviji u slikama: Ogroman broj građana podržao Studentsku listu",
+        "link": "https://n1info.rs/foto/foto-skup-na-slaviji-u-slikama-ogroman-broj-gradjana-podrzao-studentsku-listu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "IFJ podržao grupe MFRR i SafeJournalists u apelu na položaj novinara u Srbiji pred izbore",
+        "link": "https://n1info.rs/vesti/ifj-podrzao-grupe-mfrr-i-safejournalists-u-apelu-na-polozaj-novinara-u-srbiji-pred-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Zidojče cajtung: Prljava borba srpske vlasti protiv studentskog pokreta",
+        "link": "https://n1info.rs/vesti/zidojce-cajtung-prljava-borba-srpske-vlasti-protiv-studentskog-pokreta/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Počela predizborna tišina, na izborima u nedelju se takmiči 18 lista",
+        "link": "https://nova.rs/vesti/politika/pocela-predizborna-tisina-na-izborima-u-nedelju-se-takmici-18-lista/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Ostalo je manje od 12 sati, vreme nam ističe, ovo je naša poslednja molba\": Apel Srba iz zemalja Persijskog zaliva, kojima je onemogućeno da glasaju",
+        "link": "https://nova.rs/vesti/politika/srbima-u-zemljama-persijskog-zaliva-onemoguceno-da-glasaju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Arhiv javnih skupova objavio koliko je ljudi bilo na skupu Studentske liste na Slaviji",
+        "link": "https://nova.rs/vesti/politika/arhiv-javnih-skupova-objavio-koliko-je-ljudi-bilo-na-skupu-studentske-liste-na-slaviji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Bodiroga poslao poruku pred izbore, njegove reči obilaze Srbiju",
+        "link": "https://nova.rs/sport/kosarka/bodiroga-poslao-poruku-pred-izbore-njegove-reci-obilaze-srbiju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Studenti poslali poruku pred početak izborne tišine: \"Narode Srbije...\"",
+        "link": "https://nova.rs/vesti/politika/studenti-poslali-poruku-pred-pocetak-izborne-tisine-narode-srbije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Ovo su poslednji trzaji režima koji neće slomiti pobedničku energiju\": Advokat Nikola Lakić o hapšenjima i upadima policije širom Srbije pred izbore",
+        "link": "https://nova.rs/vesti/hronika/advokat-nikola-lakic-o-hapsenjima-i-upadima-policije-sirom-srbije-pred-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Stotine hiljada ljudi na Slaviji pred napet izborni vikend\": AP o završnom skupu Studentske liste",
+        "link": "https://nova.rs/vesti/politika/ap-o-zavrsnom-skupu-studentske-liste/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "VIDEO Pristalice SNS skandirale Ratku Mladiću u Novom Sadu, kod groblja u Subotici desetine autobusa za koje se sumnja da su dovezli pristalice stranke",
+        "link": "https://nova.rs/vesti/politika/video-pristalice-sns-skandirale-ratku-mladicu-u-novom-sadu-kod-groblja-u-subotici-desetine-autobusa-za-koje-se-sumnja-da-su-dovezli-pristalice-stranke/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "FOTO Čuveni Bora Milutinović na završnom skupu Studentske liste, njegova unuka poslala bitnu poruku",
+        "link": "https://nova.rs/sport/fudbal/foto-bora-milutinovic-zavrsni-skup-studentska-lista-slavija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Ko ne skače, taj je ćaci\": \"Grmelo\" skandiranje na derbiju u Areni",
+        "link": "https://nova.rs/sport/evroliga/ko-ne-skace-taj-je-caci-grmelo-skandiranje-na-derbiju-u-areni/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Izostala podrška SNS-u pred parlamentarne izbore: Robert Fico kao poslednje uporište Aleksandra Vučića u Evropi",
+        "link": "https://nova.rs/vesti/politika/izostala-podrska-sns-u-pred-parlamentarne-izbore-robert-fico-kao-poslednje-uporiste-aleksandra-vucica-u-evropi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Prisluškuju, hapse i biju, ali izgleda da se niko ne plaši: Poslednji pokušaj vlasti da zastraši građane pred izbore, može da izazove samo veći bes",
+        "link": "https://nova.rs/vesti/politika/prisluskuju-hapse-i-biju-ali-izgleda-da-se-niko-ne-plasi-poslednji-pokusaj-vlasti-da-zastrasi-gradjane-pred-izbore-moze-da-izazove-samo-veci-bes/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Marčelo poslao poruku Snežani Savić: \"Tri poljupca\" ili \"Ruzmarin\" - poznati muzičari i glumci otvoreno o pesmama koje su ušle u predizbornu kampanju",
+        "link": "https://nova.rs/magazin/lifestyle/marcelo-poslao-poruku-snezani-savic-tri-poljupca-ili-ruzmarin-poznati-muzicari-i-glumci-otvoreno-o-pesmama-koje-su-usle-u-predizbornu-kampanju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Aleksa Avramović se oglasio zbog skupa na Slaviji: Podelio snimak koji morate da vidite",
+        "link": "https://nova.rs/sport/kosarka/aleksa-avramovic-se-oglasio-zbog-skupa-na-slaviji-podelio-snimak-koji-morate-da-vidite/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Nova\" piše: Manje poznati biznismen blizak SNS uložio pola miliona evra u fond Vista Rika, pa ređa poslove od države",
+        "link": "https://nova.rs/vesti/drustvo/nova-pise-manje-poznati-biznismen-blizak-sns-ulozio-pola-miliona-evra-u-fond-vista-rika-pa-redja-poslove-od-drzave/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Da se naježiš! Tesla ima poruku za Srbiju: \"Da vratimo svetlost u Srbiju\" VIDEO",
+        "link": "https://nova.rs/zabava/showbiz/exit-promotivnim-spotom-pruzio-podrsku-studentima-da-vratimo-svetlost-u-srbiju-video/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Svetski mediji bruje o izborima u Srbiji: Gardijan piše o velikom izazovu za Vučića, Rojters o pritiscima, AP upozorava na tenzije",
+        "link": "https://nova.rs/vesti/svet/svetski-mediji-bruje-o-izborima-u-srbiji-gardijan-pise-o-velikom-izazovu-za-vucica-rojters-o-pritiscima-ap-upozorava-na-tenzije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "FOTO \"Peta Slavija\" kroz fotografije: Najupečatljiviji prizori studentskog skupa u centru Beograda",
+        "link": "https://nova.rs/vesti/politika/foto-peta-slavija-kroz-fotografije-najupecatljiviji-prizori-studentskog-skupa-u-centru-beograda/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "BLOG \"Neka se do nedelje priča o Slaviji\": Snažne poruke sa preizbornog skupa Studentske liste u Beogradu FOTO, VIDEO",
+        "link": "https://nova.rs/vesti/politika/blog-uivo-saobraaj-blokiran-dr-ilija-srdanovi-stigao-na-slaviju-veliki-broj-pripadnika-policije-u-pionirskom-parku/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "\"Kakvi budemo u nedelju, bićemo doveka\": Moćnom porukom studenti se oglasili posle skupa na Slaviji",
+        "link": "https://nova.rs/vesti/politika/mocnom-porukom-studenti-se-oglasili-posle-skupa/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Počela izborna tišina: Do kada traje i šta podrazumeva?",
+        "link": "https://www.danas.rs/vesti/politika/izborna-tisina-do-kada-traje-sta-znaci/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Arhiva javnih skupova: Koliko ljudi se večeras okupilo na Slaviji?",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/arhiv-javnih-skupova-studenti-slavija/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Đilas: Za evropski život u evropskoj Srbiji, imovina stečena kriminalom biće oduzeta",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/djilas-evropski-zivot-u-evropskoj-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "„Slavija, pa 25. oktobar“: Bora Milutinović na završnom skupu Studentske liste",
+        "link": "https://www.danas.rs/sport/bora-milutinovic-slavija-skup-izbori-studenti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Evropske demokrate o završnom skupu Studentske liste: Vučiću, generacija nade preplavljuje Beograd",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/evropske-demokrate-o-studentskom-skupu/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Ipsos objavio rezultate istraživanja javnog mnjenja za parlamentarne izbore",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/ipsos-rezultati-istrazivanja-izbori/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "AP o završnom skupu Studentske liste: Hiljade ljudi u centru Beograda pred napet izborni vikend",
+        "link": "https://www.danas.rs/svet/ap-o-zavrsenom-skupu-studentske-liste/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Naprednjaci blokirali više ulica u Novom Sadu",
+        "link": "https://www.danas.rs/vesti/politika/naprednjaci-blokirali-vise-ulica-u-novom-sadu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Bošković (SRCE): Prekid evrointegracija bi bio zločin prema sopstvenom narodu",
+        "link": "https://www.danas.rs/vesti/politika/boskovic-srce-prekid-evroointegracija-bi-bio-zlocin-prema-sopstvenom-narodu/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Računica za pobedu liste broj tri: Na izbore mora da izađe 83 odsto birača",
+        "link": "https://www.danas.rs/dijalog/licni-stavovi/racunica-za-pobedu-liste-broj-tri-na-izbore-mora-da-izadje-83-odsto-biraca/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Završnica kampanje: Pesme, Ustav, zakrčene ulice i ista poruka najvećih rivala – ‘pobeđujemo’",
+        "link": "https://www.danas.rs/bbc-news-serbian/zavrsnica-kampanje-pesme-ustav-zakrcene-ulice-i-ista-poruka-najvecih-rivala-pobedjujemo/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Skup Studentske liste na Slaviji u slikama (FOTO)",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/studenski-skup-slavija-slike-fotografije/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "„Za državu smo dobri kada šaljemo novac“: Naši ljudi u inostranstvu žele da glasaju, ali vlast u Srbiji čini sve da ih zaustavi",
+        "link": "https://www.danas.rs/svet/nasi-ljudi-u-inostranstvu-zele-da-glasaju-ali-vlast-u-srbiji-cini-sve-da-ih-zaustavi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Šta Njujork tajms piše o predstojećim izborima u Srbiji",
+        "link": "https://www.danas.rs/svet/identitet-politika-srbija-njujork-tajms/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "„Kakvi budemo u nedelju, bićemo doveka!“: Održan skup Studentske liste na Slaviji (FOTO, VIDEO)",
+        "link": "https://www.danas.rs/vesti/drustvo/slavija-studentski-skup-policija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Lalatović zadovoljan izborom sudije u Nišu",
+        "link": "https://www.danas.rs/sport/nenad-lalatovic-srdjan-jovanovic-sudija/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "KDI: Neimenovanje poslanika Srpske liste u odbore Skupštine Kosova ugrožava zastupljenost Srba",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/kdi-neimenovanje-poslanika-srpske-liste-u-odbore-skupstine-kosova-ugrozava-zastupljenost-srba/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Strah od civilizacijskog sloma Amerike: Iz Trampove predizborne retorike „izbija i svest o sopstvenoj ranjivosti“",
+        "link": "https://www.danas.rs/svet/tramp-predizborna-retorika/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "U ponedeljak sigurno slavimo",
+        "link": "https://www.danas.rs/kolumna/marko-vidojkovic/u-ponedeljak-sigurno-slavimo/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Uglješa Mrdić kupio dva stana u Beogradu za mesec i po dana",
+        "link": "https://www.krik.rs/ugljesa-mrdic-kupio-dva-stana-u-beogradu-za-mesec-i-po-dana/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.krik.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Nuhijević: Radnici „Simpa“ zaslužuju poštovanje, a ne MITINGE!",
+        "link": "https://infovranjske.rs/nuhijevic-radnici-simpa-zasluzuju-postovanje-a-ne-mitinge/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "infovranjske.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Zoran Antić tvrdi: U Vranju 1500 ljudi dočekalo Dačića – Realnost malo drugačija?",
+        "link": "https://infovranjske.rs/zoran-antic-tvrdi-u-vranju-1500-ljudi-docekalo-dacica-realnost-malo-drugacija/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Stanisavljević i dalje prvi čovek izbornog procesa: U Vranju upisano 66.439 birača",
+        "link": "https://infovranjske.rs/stanisavljevic-i-dalje-prvi-covek-izbornog-procesa-u-vranju-upisano-66-439-biraca/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Izbori26: Svi građani sa KOSOVA GLASAĆE u „Hemijsko – tehnološkoj školi“",
+        "link": "https://infovranjske.rs/izbori26-svi-gradjani-sa-kosova-glasace-u-hemijsko-tehnoloskoj-skoli/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Izbori26: „Za naš grad“ – Pozivamo VAS da svoj GLAS date STUDENTSKOJ LISTI",
+        "link": "https://infovranjske.rs/izbori26-za-nas-grad-pozivamo-vas-da-svoj-glas-date-studentskoj-listi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Arhiv javnih skupova: Na studentskom skupu na Slaviji bilo oko 150.000 ljudi",
+        "link": "https://jugpress.com/arhiv-javnih-skupova-na-studentskom-skupu-na-slaviji-bilo-oko-150-000-ljudi/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Studenti i građani zaigrali kolo za kraj kampanje i pozvali građane da ih podrže u nedelju",
+        "link": "https://jugpress.com/studenti-i-gradjani-zaigrali-kolo-za-kraj-kampanje-i-pozvali-gradjane-da-ih-podrze-u-nedelju/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Za Leskovac ZAJEDNO: Poziv svim Leskovčankama i Leskovčanima- Glasajte za listu broj 3 „Studenti pobeđuju“!",
+        "link": "https://jugpress.com/za-leskovac-zajedno-poziv-svim-leskovcankama-i-leskovcanima-glasajte-za-listu-broj-3-studenti-pobedjuju/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Održan završni skup „Studentske liste – Studenti pobeđuju“ na Trgu Slavija: „Srbija zaslužuje slobodu i promene“",
+        "link": "https://jugpress.com/odrzan-zavrsni-skup-studentske-liste-studenti-pobedjuju-na-trgu-slavija-srbija-zasluzuje-slobodu-i-promene/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "Cvetanović: U nedelju izađite u što većem broju na izbore i glasajte",
+        "link": "https://jugpress.com/cvetanovic-u-nedelju-izadjite-u-sto-vecem-broju-na-izbore-i-glasajte/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "23.10.2026"
+    },
+    {
+        "title": "NPS: Građani juga Srbije, podržite studente",
+        "link": "https://jugpress.com/nps-gradjani-juga-srbije-podrzite-studente/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "jugpress.com",
+        "date": "23.10.2026"
+    },
+    {
         "title": "Stanić o dočeku studenata: Kao kad oslobodioci ulaze u velike gradove posle okupacije",
         "link": "https://n1info.rs/vesti/stanic-o-doceku-studenata-kao-kad-oslobodioci-ulaze-u-velike-gradove-posle-okupacije/",
         "city": "Bor",
