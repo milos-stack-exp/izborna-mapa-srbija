@@ -1,5 +1,482 @@
 [
     {
+        "title": "Bugarska sutra bira predsednika, u trci 27 kandidatskih parova",
+        "link": "https://n1info.rs/svet/bugarska-sutra-bira-predsednika-u-trci-27-kandidatskih-parova/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Od 1990. do danas: Kako se menjala izlaznost na parlamentarnim izborima u Srbiji",
+        "link": "https://n1info.rs/vesti/kako-se-menjala-izlaznost-na-parlamentarnim-izborima-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "UNS: Strani novinari bez odgovora o akreditacijama dan uoči izbora",
+        "link": "https://n1info.rs/vesti/uns-strani-novinari-bez-odgovora-o-akreditacijama-dan-uoci-izbora/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "\"Ne dozvolite da naredbe pogaze vašu zakletvu\": Bivše kolege pozvale policiju da na dan izbora postupa po zakonu",
+        "link": "https://n1info.rs/vesti/ne-dozvolite-da-naredbe-pogaze-vasu-zakletvu-bivse-kolege-pozvale-policiju-da-na-dan-izbora-postupa-po-zakonu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Ko je u ime REM-a proglasio kršenje izborne tišine na N1 i Novoj: Deo članova nije ni znao za saopštenje",
+        "link": "https://n1info.rs/vesti/rem-proglasio-krsenje-izborne-tisine-n1-nova/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Novi botovski napad na Instagram nalog Nova.rs dan pred parlamentarne izbore",
+        "link": "https://n1info.rs/vesti/novi-botovski-napad-na-instagram-nalog-novars-dan-pred-parlamentarne-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Mašina: Broj prijava za glasanje van biračkih mesta u Kladovu skočio sa 115 na 425 za jedan dan, slučaj prijavljen policiji",
+        "link": "https://n1info.rs/vesti/masina-broj-prijava-za-glasanje-van-birackih-mesta-u-kladovu-skocio-sa-115-na-425-za-jedan-dan-slucaj-prijavljen-policiji/",
+        "city": "Rača",
+        "lat": 44.2258,
+        "lng": 20.9786,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Saveti za pravilno sedenje ispred računara",
+        "link": "https://n1info.rs/magazin/zdravlje/saveti-za-pravilno-sedenje-ispred-racunara/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Proglašeno još tri liste za izbore za savete nacionalnih manjina, ukupno ih je 52",
+        "link": "https://n1info.rs/vesti/proglaseno-jos-tri-liste-za-izbore-za-savete-nacionalnih-manjina-ukupno-ih-je-52/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Bivši načelnik Komunalne policije o rušenju u Savamali: Tvrdi da je sve organizovao Siniša Mali, pominje i Veselina Milića",
+        "link": "https://n1info.rs/vesti/bivsi-nacelnik-komunalne-policije-progovorio-o-savamali-tvrdi-da-je-sve-organizovao-sinisa-mali-pominje-i-veselina-milica/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Jablanički okrug ima gotovo 33.000 birača manje nego na lokalnim izborima 2023. godine",
+        "link": "https://n1info.rs/vesti/jablanicki-okrug-ima-gotovo-33000-biraca-manje-nego-na-lokalnim-izborima-2023-godine/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Dezinformisanje uz pomoć veštačke inteligencije: Kako prepoznati obmane i zaštititi se?",
+        "link": "https://n1info.rs/magazin/scitech/dezinformisanje-uz-pomoc-vestacke-inteligencije-kako-prepoznati-dipfejk-i-zastititi-se/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Stalna radna grupa za bezbednost novinara: Hitno omogućiti novinarima da nesmetano izveštavaju",
+        "link": "https://n1info.rs/vesti/stalna-radna-grupa-za-bezbednost-novinara-hitno-omoguciti-novinarima-da-nesmetano-izvestavaju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Tema jutra: Kako bi trebalo da izgleda izborni dan?",
+        "link": "https://n1info.rs/video/novi-dan/tema-jutra-kako-bi-trebalo-da-izgleda-izborni-dan/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Član biračkog odbora povređen na biračkom mestu u Šapcu: Izgurali ga iz prostorije i udarili pesnicom u lice",
+        "link": "https://nova.rs/vesti/politika/clan-birackog-odbora-povredjen-na-birackom-mestu-u-sapcu-izgurali-ga-iz-prostorije-i-udarili-pesnicom-u-lice/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "\"Zašto u Kataru nije otvoreno biračko mesto?“ Za dva sata javilo se 113 državljana Srbije, većina ne može da glasa",
+        "link": "https://nova.rs/vesti/politika/zasto-u-kataru-nije-otvoreno-biracko-mesto-za-dva-sata-javilo-se-113-drzavljana-srbije-vecina-ne-moze-da-glasa/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Infantino uoči izbora tvrdi da ima ogromnu većinu",
+        "link": "https://nova.rs/sport/fudbal/infantino-uoci-izbora-tvrdi-da-ima-ogromnu-vecinu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Bardela ponovo izabran za lidera francuske desnice sa 98,98 odsto glasova: Istovremeno, desetine hiljada ljudi protestovalo protiv krajnje desnice",
+        "link": "https://nova.rs/vesti/svet/bardela-ponovo-izabran-za-lidera-francuske-desnice-sa-9898-odsto-glasova-istovremeno-desetine-hiljada-ljudi-protestovalo-protiv-krajnje-desnice/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Selektor Srbije objavio spisak igrača za kvalifikacije za Evropsko prvenstvo",
+        "link": "https://nova.rs/sport/sport-ostalo/selektor-srbije-objavio-spisak-igraca-za-kvalifikacije-za-evropsko-prvenstvo/",
+        "city": "Rača",
+        "lat": 44.2258,
+        "lng": 20.9786,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Vesna Čipčić, Aleksandar Srećković Kubura, Nikola Kojo, Konstrakta i Seka Sablić pozivaju da izađete na izbore: \"Glasanje nije zakonska, ali jeste moralna obaveza\"",
+        "link": "https://nova.rs/vesti/politika/vesna-cipcic-aleksandar-sreckovic-kubura-nikola-kojo-konstrakta-i-seka-sablic-pozivaju-da-izadjete-na-izbore-glasanje-nije-zakonska-ali-jeste-moralna-obaveza/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Strani novinari u neizvesnosti pred izbore u Srbiji: Bratina i RIK ignorišu pitanja o akreditacijama",
+        "link": "https://nova.rs/vesti/politika/strani-novinari-u-neizvesnosti-pred-izbore-u-srbiji-bratina-i-rik-ignorisu-pitanja-o-akreditacijama/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Mašina: Broj prijava za glasanje van biračkih mesta u Kladovu skočio sa 115 na 425 za jedan dan, slučaj prijavljen policiji",
+        "link": "https://nova.rs/vesti/politika/masina-broj-prijava-za-glasanje-van-birackih-mesta-u-kladovu-skocio-sa-115-na-425-za-jedan-dan-slucaj-prijavljen-policiji/",
+        "city": "Rača",
+        "lat": 44.2258,
+        "lng": 20.9786,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Kome se možete žaliti ako imate problema prilikom glasanja ili primetite nepravilnosti na biračkom mestu",
+        "link": "https://nova.rs/vesti/politika/kome-se-mozete-zaliti-ako-imate-problema-prilikom-glasanja-ili-primetite-nepravilnosti-na-birackom-mestu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Bivši načelnik Komunalne policije progovorio o rušenju u Savamali: Tvrdi da je sve organizovao Siniša Mali, pominje i Veselina Milića",
+        "link": "https://nova.rs/vesti/hronika/bivsi-nacelnik-komunalne-policije-progovorio-o-rusenju-u-savamali-tvrdi-da-je-sve-organizovao-sinisa-mali-pominje-i-veselina-milica/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Akademski krizni centar pozvao akademsku zajednicu da prijavi represiju i hapšenja na izborni dan: Advokati dostupni 24 sata dnevno",
+        "link": "https://nova.rs/vesti/hronika/akademski-krizni-centar-pozvao-akademsku-zajednicu-da-prijavi-represiju-i-hapsenja-na-izborni-dan-advokati-dostupni-24-sata-dnevno/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Kako izgledaju važeći i nevažeći glasački listići: Posebno važno za sve građane koji trpe pritisak da glasaju za određenu izbornu listu",
+        "link": "https://nova.rs/vesti/politika/kako-izgledaju-vazeci-i-nevazeci-glasacki-listic-posebno-vazno-za-sve-gradjane-koji-trpe-pritisak-da-glasaju-za-odredjenu-izbornu-listu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Stalna radna grupa za bezbednost novinara: Hitno omogućiti novinarima praćenje rada izbornih komisija i utvrditi odgovornost za njihovo ometanje",
+        "link": "https://nova.rs/vesti/drustvo/stalna-radna-grupa-za-bezbednost-novinara-hitno-omoguciti-novinarima-pracenje-rada-izbornih-komisija-i-utvrditi-odgovornost-za-njihovo-ometanje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Novi botovski napad na Instagram nalog Nova.rs dan pred parlamentarne izbore: Nastavljaju se pritisci na nezavisne medije",
+        "link": "https://nova.rs/vesti/drustvo/novi-botovski-napad-na-instagram-nalog-novars-dan-pred-parlamentarne-izbore-nastavljaju-se-pritisci-na-nezavisne-medije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Kako i zašto meteorolozi daju ljudska imena olujama",
+        "link": "https://www.danas.rs/vesti/klimatske-promene/kako-i-zasto-meteorolozi-daju-ljudska-imena-olujama/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Izbori u Srbiji: Šta sve treba da znate?",
+        "link": "https://www.danas.rs/vesti/politika/izbori-sta-sve-treba-da-znate/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "UNS: Strani novinari koji izveštavaju sa sutrašnjih parlamentarnih izbora u Srbiji imaju poteškoće da dobiju akreditacije",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/strani-novinari-izbori/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Predizborna tišina",
+        "link": "https://www.danas.rs/kolumna/marko-selic-marcelo/predizborna-tisina/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Botovski napad na Instagram nalog Nova.rs dan pred parlamentarne izbore",
+        "link": "https://www.danas.rs/vesti/drustvo/botovski-napad-na-instagram-nalog-nova-rs-dan-pred-parlamentarne-izbore/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Mašina: Broj birača prijavljenih za glasanje van biračkih mesta u Kladovu porastao je sa 115 na 425 za jedan dan",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/masina-broj-biraca-prijavljenih-za-glasanje-van-birackih-mesta-u-kladovu-porastao-je-sa-115-na-425-za-jedan-dan/",
+        "city": "Rača",
+        "lat": 44.2258,
+        "lng": 20.9786,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Protesti u Češkoj zbog javnih medija: Demonstranti pokušali nasilni ulazak u parlament",
+        "link": "https://www.danas.rs/svet/protesti-u-ceskoj-zbog-javnih-medija-demonstranti-pokusali-nasilni-ulazak-u-parlament/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Poznat konačan spisak rukometaša Srbije za mečeve protiv Estonije i Ukrajine",
+        "link": "https://www.danas.rs/sport/raul-gonzales-rukomet-kvalifikacije-evropsko-prvesntvo/",
+        "city": "Rača",
+        "lat": 44.2258,
+        "lng": 20.9786,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Jablanički okrug ima gotovo 33.000 birača manje nego na lokalnim izborima 2023. godine",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/jablanicki-okrug-ima-gotovo-33-000-biraca-manje-nego-na-lokalnim-izborima-2023-godine/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "SRG: Novinarima u Pančevu i Vranju uskraćen pristup izbornim komisijama, RIK hitno da reaguje",
+        "link": "https://www.danas.rs/vesti/drustvo/srg-novinarima-u-pancevu-i-vranju-uskracen-pristup-izbornim-komisijama-rik-hitno-da-reaguje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Medijapar: Šest meseci pre predsedničkih izbora u Francuskoj, Makron doveo zemlju na ivicu kolapsa",
+        "link": "https://www.danas.rs/svet/medijapar-sest-meseci-pre-predsednickih-izbora-u-francuskoj-makron-doveo-zemlju-na-ivicu-kolapsa/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Uputstvo za posmatrace u inostranstvu – Izbori 2026",
+        "link": "https://crta.rs/uputstvo-za-posmatrace-u-inostranstvu-izbori-2026/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "„Afera džak“: Siniša Kostadinović proverava ispravnost materijala u selu Donje Žapsko",
+        "link": "https://infovranjske.rs/afera-dzak-sinisa-kostadinovic-proverava-ispravnost-materijala-u-selu-donje-zapsko/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Oglasilo se i Osnovno javno tužilaštvo povodom sporne primopredaje izbornog materijala",
+        "link": "https://infovranjske.rs/oglasilo-se-i-osnovno-javno-tuzilastvo-povodom-sporne-primopredaje-izbornog-materijala/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "UNS: GIK u Vranju da omogući uredniku „Infovranjskih” izveštavanje",
+        "link": "https://infovranjske.rs/uns-gik-u-vranju-da-omoguci-uredniku-infovranjskih-izvestavanje/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Izbori2026: U Trgovištu pronađeno višak, u Bujanovcu manjak izbornih listića",
+        "link": "https://infovranjske.rs/izbori2026-u-trgovistu-pronadjeno-visak-u-bujanovcu-manjak-izbornih-listica/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "NUNS: Omogućiti novinarima nesmetano praćenje rada Gradske izborne komisije u Vranju",
+        "link": "https://infovranjske.rs/nuns-omoguciti-novinarima-nesmetano-pracenje-rada-gradske-izborne-komisije-u-vranju/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Gradska izborna komisija: Oglasio se Stanisavljević nakon sporne pripomoredaje materijala",
+        "link": "https://infovranjske.rs/gradska-izborna-komisija-oglasio-se-stanisavljevic-nakon-sporne-pripomoredaje-materijala/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Sporni „džak“ iz Vranje tema REPUBLIČKE IZBORNE KOMISIJE",
+        "link": "https://infovranjske.rs/sporni-dzak-iz-vranje-tema-republicke-izborne-komisije/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Strani novinari pitaju UNS kako do akreditacije, RIK upućuje na Ministarstvo informisanja, u praksi- muk nadležnih",
+        "link": "https://jugpress.com/strani-novinari-pitaju-uns-kako-do-akreditacije-rik-upucuje-na-ministarstvo-informisanja-u-praksi-muk-nadleznih/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "GIK Vranje negira navode o „krađi“ izbornog materijala",
+        "link": "https://jugpress.com/gik-vranje-negira-navode-o-kradji-izbornog-materijala/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "jugpress.com",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Studentska lista targetirana 517 puta u mesec dana, pred izbore sve češće na meti nezavisni mediji iposmatrači",
+        "link": "https://jugpress.com/studentska-lista-targetirana-517-puta-u-mesec-dana-pred-izbore-sve-cesce-na-meti-nezavisni-mediji-iposmatraci/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "Novinarski deo SRG: Hitno omogućiti novinarima da nesmetano izveštavaju",
+        "link": "https://jugpress.com/novinarski-deo-srg-hitno-omoguciti-novinarima-da-nesmetano-izvestavaju/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "NUNS: Omogućiti novinarima nesmetano praćenje rada Gradske izborne komisije u Vranju",
+        "link": "https://jugpress.com/nuns-omoguciti-novinarima-nesmetano-pracenje-rada-gradske-izborne-komisije-u-vranju/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "25.10.2026"
+    },
+    {
+        "title": "ANEM ALARM: Dnevnik dežurnog na Sigurnoj liniji za bezbednost novinara",
+        "link": "https://jugpress.com/anem-alarm-dnevnik-dezurnog-na-sigurnoj-liniji-za-bezbednost-novinara/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "25.10.2026"
+    },
+    {
         "title": "U Bačkoj Topoli glasanje na 50, a u Malom Iđošu na 23 biračka mesta",
         "link": "https://n1info.rs/vesti/u-backoj-topoli-glasanje-na-50-a-u-malom-idjosu-na-23-biracka-mesta/",
         "city": "Bor",
