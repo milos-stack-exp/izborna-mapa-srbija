@@ -1,5 +1,563 @@
 [
     {
+        "title": "(BLOG) Drugo veče velikog slavlja u gradovima širom Srbije: Ogroman broj ljudi bio na Slaviji",
+        "link": "https://n1info.rs/vesti/blog-26-oktobar-2026-izbori-dan-posle/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Slike slavlja u Srbiji video je ceo svet: Kako međunarodni mediji izveštavaju o pobedi studenata?",
+        "link": "https://n1info.rs/vesti/slike-slavlja-u-srbiji-video-je-ceo-svet-kako-svetski-mediji-izvestavaju-o-pobedi-studenata/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Deo članova RIK-a tražio izvinjenje biračima u inostranstvu, optužili većinu za teror nad manjinom",
+        "link": "https://n1info.rs/vesti/deo-clanova-rik-a-trazio-izvinjenje-biracima-u-inostranstvu-optuzili-vecinu-za-teror-nad-manjinom/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "\"Vreme Aleksandra Vučića je prošlo“: Gosti \"Utiska nedelje\" o pobedi studenata i tranziciji vlasti",
+        "link": "https://n1info.rs/vesti/vreme-aleksandra-vucica-je-proslo-gosti-utiska-nedelje-o-pobedi-studenata-i-tranziciji-vlasti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "RIK utvrdio preliminarne rezultate izbora, Studentska lista 140 mandata, Ujedinjena Srbija 104",
+        "link": "https://n1info.rs/vesti/rik-utvrdio-preliminarne-rezultate-izbora-studentska-lista-140-mandata-ujedinjena-srbija-104/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Vojska olovaka jača od partijske vojske: \"Ovog puta demokratija bila prejaka, čak i za nasilje SNS-a\"",
+        "link": "https://n1info.rs/vesti/vojska-olovaka-jaca-od-partijske-vojske-ovog-puta-demokratija-bila-prejaka-cak-i-za-nasilje-sns-a/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Srdanović: Ostanite mirni i dostojanstveni do kraja izbornog procesa, nemojte pribegavati nasilju",
+        "link": "https://n1info.rs/vesti/srdanovic-ostanite-mirni-i-dostojanstveni-do-kraja-izbornog-procesa-nemojte-pribegavati-nasilju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Studenti u blokadi: Ne podržavamo upade u medije i institucije, niti na njih pozivamo",
+        "link": "https://n1info.rs/vesti/studenti-u-blokadi-veceras-slavimo-pobedu-za-sukobe-i-nasilje-nema-mesta/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "\"Ljudi su konačno pogledali u svoj novčanik\": Kako je Studentska lista odnela pobedu na jugu Srbije?",
+        "link": "https://n1info.rs/vesti/ljudi-su-konacno-pogledali-u-svoj-novcanik-kako-je-studentska-lista-odnela-pobedu-na-jugu-srbije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Nemački mediji: Istorijsko veče u Beogradu",
+        "link": "https://n1info.rs/vesti/nemacki-mediji-istorijsko-vece-u-beogradu/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Vukadinović o rezultatima izbora: SPS će teško preživeti ovakve rezultate, a pitanje je i da li će SNS",
+        "link": "https://n1info.rs/vesti/vukadinovic-o-rezultatima-izbora-sps-ce-tesko-preziveti-ovakve-rezultate-a-pitanje-je-i-da-li-ce-sns/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Cvijetin Milivojević: Nadam se da će izborna pobeda Studentske liste značiti i promenu sistema",
+        "link": "https://n1info.rs/vesti/cvijetin-milivojevic-izborna-pobeda-studentske-liste-promena-sistema/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "AP: Pobeda Lule, istog dana kad je poražen Vučić, početak niza izbora važnih za globalnu politiku",
+        "link": "https://n1info.rs/vesti/ap-pobeda-lule-pocetak-niza-izbora-vaznih-za-globalnu-politiku/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Finalna projekcija CeSID-Ipsos: Studentska lista 141 mandata, Vučić 103",
+        "link": "https://n1info.rs/vesti/finalna-projekcija-cesid-ipsos-studentska-lista-140-mandata-vucic-103/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Teniseri digli glas i pozvali ATP da reaguje: \"Postoji rizik da izgubimo disciplinu koja ima dugu tradiciju...\"",
+        "link": "https://nova.rs/sport/tenis/teniseri-digli-glas-i-pozvali-atp-da-reaguje-postoji-rizik-da-izgubimo-disciplinu-koja-ima-dugu-tradiciju/",
+        "city": "Ub",
+        "lat": 44.4533,
+        "lng": 20.0758,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Hari Kejn osvojio \"Zlatnu loptu\", evo ko je još dobio nagrade",
+        "link": "https://nova.rs/sport/fudbal/zlatna-lopta-2026-izbor-dobitnik-nagrada/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "\"Ne želimo revolucionarnu pravdu već potpunu promenu sistema\": Predstavnici Studentske liste i analitičari u Utisku nedelje o Srbiji posle Aleksandra Vučića",
+        "link": "https://nova.rs/vesti/politika/ne-zelimo-revolucionarnu-pravdu-vec-potpunu-promenu-sistema-predstavnici-studentske-liste-i-analiticari-o-srbiji-posle-aleksandra-vucica/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "RIK utvrdio preliminarne rezultate izbora: Studentska lista 140 mandata, Ujedinjena Srbija 104",
+        "link": "https://nova.rs/vesti/politika/rik-utvrdio-preliminarne-rezultate-izbora-studentska-lista-140-mandata-ujedinjena-srbija-104/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "\"Lijte kiše, hladne vode, Vučić ode\": Kako je jedna pesma Zorice Marković postala simbol studentske pobede",
+        "link": "https://nova.rs/zabava/showbiz/lijte-kise-hladne-vode-vucic-ode-kako-je-jedna-pesma-zorice-markovic-postala-simbol-studentske-pobede/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Izgubio sina u Gazi, sada želi da sruši Netanjahua: Ko je Gadi Ajzenkot, najveće iznenađenje izbora u Izraelu",
+        "link": "https://nova.rs/vesti/svet/izgubio-sina-u-gazi-sada-zeli-da-srusi-netanjahua-ko-je-gadi-ajzenkot-najvece-iznenadjenje-izbora-u-izraelu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Partizan se oglasio s verom u bolje dane: \"Znali smo da nas čeka dug i težak put oporavka...\"",
+        "link": "https://nova.rs/sport/fudbal/partizan-se-oglasio-s-verom-u-bolje-dane-znali-smo-da-nas-ceka-dug-i-tezak-put-oporavka/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "FOTO \"Sloboda\": Bogdanović se oglasio zbog pobede Studentske liste, odgovorio mu bivši kapiten Zvezde",
+        "link": "https://nova.rs/sport/kosarka/foto-sloboda-bogdanovic-se-oglasio-zbog-pobede-studentske-liste-odgovorio-mu-bivsi-kapiten-zvezde/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Bajkeri pred policijom u Nišu pitaju zašto su privođeni tokom izbornog dana:  Skupljaćemo se svakog dana dok ne dobijemo odgovore",
+        "link": "https://nova.rs/vesti/hronika/bajkeri-pred-policijom-u-nisu-pitaju-zasto-privodjeni-tokom-izbora-skupljacemo-se-svakog-dana-dok-ne-dobijemo-odgovore/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "\"Vučić izgubio? A ko je pobedio?\": Karleuša ne prihvata realnost - izlivi očaja državne pevačice posle pada njenog vođe su smehotresni FOTO",
+        "link": "https://nova.rs/zabava/showbiz/vucic-izgubio-a-ko-je-pobedio-karleusa-ne-prihvata-realnost-izlivi-ocaja-drzavne-pevacice-posle-pada-njenog-vodje-su-smehotresni-foto/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Sati u redu za glasanje, kolone na Brnjaku i povratak kući uz vest da su studenti pobedili: Ovako je izgledao izborni dan Srba sa Kosova",
+        "link": "https://nova.rs/vesti/politika/sati-u-redu-za-glasanje-kolone-na-brnjaku-i-povratak-kuci-uz-vest-da-su-studenti-pobedili-ovako-je-izgledao-izborni-dan-srba-sa-kosova/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "VIDEO \"Narod bira i narod se sluša\": Slavni sportista slavio pobedu na izborima i poslao moćnu poruku svima u Srbiji",
+        "link": "https://nova.rs/sport/sport-ostalo/video-narod-bira-i-narod-se-slusa-slavni-sportista-slavio-pobedu-na-izborima-i-poslao-mocnu-poruku-svima-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "\"Otkaz svim policajcima koji su prekršili zakone službe\": Ovo su ključne tačke studentskog programa o MUP i pravosuđu",
+        "link": "https://nova.rs/vesti/hronika/otkaz-svim-policajcima-koji-su-prekrsili-zakone-sluzbe-ovo-su-kljucne-tacke-studentskog-programa-o-mup-i-pravosudju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Slavlje zbog pobede Studentske liste širom Srbije: Žurka na Slaviji, skinut baner „Srbija pobeđuje“ u Novom Sadu (VIDEO, FOTO)",
+        "link": "https://www.danas.rs/vesti/drustvo/slavlje-pobeda-studentska-lista-studenti-novi-sad-slavija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "AP: Kakav god bude ishod izbora u Izraelu, Netanjahuovo nasleđe na Zapadnoj obali će ostati",
+        "link": "https://www.danas.rs/svet/ap-kakav-god-bude-ishod-izbora-u-izraelu-netanjahuovo-nasledje-na-zapadnoj-obali-ce-ostati/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Deo članova RIK-a tražio izvinjenje biračima u inostranstvu, optužili većinu za teror nad manjinom",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/deo-clanova-rika-trazio-izvinjenje-biracima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "„Vreme Aleksandra Vučića je prošlo“: Gosti Utiska nedelje o pobedi Studentske liste",
+        "link": "https://www.danas.rs/vesti/politika/utisak-nedelje-pobeda-studentske-liste/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "RIK utvrdio preliminarne rezultate izbora",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/rik-preliminarni-rezultati-izbora/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "„Moramo ostati dostojanstveni do kraja“: Srdanović uputio apel građanima da ne pribegavaju nasilju",
+        "link": "https://www.danas.rs/vesti/politika/srdanovic-uputio-apel-gradjanima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Pijanista za Danas: Da se više nikada ne zove Ćacilend, nego da mu se vrati ime Pionirski park",
+        "link": "https://www.danas.rs/kultura/pijanista-za-danas-da-se-vise-nikada-ne-zove-cacilend-nego-da-mu-se-vrati-ime-pionirski-park/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Marković i Grlić: Studenti su ostvarili istorijsku pobedu, „nevolje u planinama su iza nas, pred nama su nevolje u ravnicama“",
+        "link": "https://www.danas.rs/kultura/markovic-i-grlic-studenti-su-ostvarili-istorijsku-pobedu-nevolje-u-planinama-su-iza-nas-pred-nama-su-nevolje-u-ravnicama/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Mickoski razgovarao telefonom sa Srdanovićem: Verujem da će se nastaviti dobri međudržavni odnosi",
+        "link": "https://www.danas.rs/svet/miskoski-razgovarao-sa-srdanovicem/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "(FOTO) Dres Bogdana Bogdanovića nosi moćnu poruku posle pobede Studentske liste",
+        "link": "https://www.danas.rs/sport/bogdan-bogdanovic-studenti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "„Rasformirati BIA, suspendovati čelnike MUP-a“: Kako razmontirati bezbednosni aparat SNS-a?",
+        "link": "https://www.danas.rs/vesti/drustvo/rasformirati-bia-mup/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Studenti u blokadi: Večeras slavimo pobedu, za sukobe i nasilje nema mesta",
+        "link": "https://www.danas.rs/vesti/drustvo/studenti-u-blokadi-slavimo-pobedu-nasilje/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Strani posmatrači: Pozitivna ocena za glasanje, negativna za izbornu atmosferu",
+        "link": "https://www.danas.rs/bbc-news-serbian/strani-posmatraci-pozitivna-ocena-za-glasanje-negativna-za-izbornu-atmosferu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Izborni dan i noć iz ugla budućeg poslanika Studentske liste Jove Bakića: Imamo plan",
+        "link": "https://www.danas.rs/vesti/politika/jovo-bakic-poslanik-izbori-studentska-lista/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "(VIDEO) „Ima narod da se sluša“: Bivši atletičar, a možda i budući poslanik slavio pobedu Studentske liste",
+        "link": "https://www.danas.rs/sport/ima-narod-da-se-slusa-mihail-dudas/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "„Srpski narod je dao snažan mandat za promene“: Marta Kos razgovarala sa Ilijom Srdanovićem",
+        "link": "https://www.danas.rs/vesti/politika/marta-kos-razgovarala-sa-srdanovicem/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Učenici 13. beogradske gimnazije proslavili pobedu Studentske liste: Poseban doček za jednog profesora (VIDEO)",
+        "link": "https://www.danas.rs/vesti/drustvo/ucenici-13-beogradske-gimnazije-proslavili-pobedu-studentske-liste-poseban-docek-za-jednog-profesora-video/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Bogoljub Karić: Svi smo mi deca iste Srbije",
+        "link": "https://www.danas.rs/vesti/politika/izbori26/bogoljub-karic-svi-smo-mi-deca-iste-srbije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "„Svi u tom redu smo doprineli ozdravljenju naše zemlje“: Sagovornici Danasa o najjačim utiscima izbornog dana i noći",
+        "link": "https://www.danas.rs/kultura/sagovornici-danasa-utisci-izbori/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Rašić: Očekujem da će se posle pobede Studentske liste nastaviti dijalog Kosova i Srbije",
+        "link": "https://www.danas.rs/vesti/politika/rasic-ocekujem-da-ce-se-posle-pobede-studentske-liste-nastaviti-dijalog-kosova-i-srbije/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "AP: Pobeda Lule, istog dana kad je poražen Vučić, početak niza izbora važnih za globalnu politiku",
+        "link": "https://www.danas.rs/svet/ap-pobeda-lule-porazen-vucic/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Preliminarna ocena izbornog dana",
+        "link": "https://crta.rs/preliminarna-ocena-izbornog-dana-3/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Posmatračka misija Crte iznela preliminarnu ocenu izbornog dana: Mobilizacijom protiv inženjeringa",
+        "link": "https://crta.rs/posmatracka-misija-crte-iznela-preliminarnu-ocenu-izbornog-dana-mobilizacijom-protiv-inzenjeringa/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "PRELIMINARNA OCENA IZBORNOG DANA",
+        "link": "https://crta.rs/preliminarna-ocena-izbornog-dana-2/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "crta.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Maja Ristić očekuje nastavak mandata: Slavlje ispred Gimnazije povodom pobede na izborima",
+        "link": "https://infovranjske.rs/maja-ristic-ocekuje-nastavak-mandata-slavlje-ispred-gimnazije-povodom-pobede-na-izborima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Petrović: U Vranju moramo da počistimo naprednjake, ali i sve njihove satelite",
+        "link": "https://infovranjske.rs/petrovic-u-vranju-moramo-da-pocistimo-naprednjake-ali-i-sve-njihove-satelite/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "infovranjske.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Izbori: „Studenti“ napravili odličan rezultat i selu PAVLOVAC",
+        "link": "https://infovranjske.rs/izbori-studenti-napravili-odlican-rezultat-i-selu-pavlovac/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "2023 VS 2026: Socijalisti u Vranju „izgubili“ više od 2.800 glasova",
+        "link": "https://infovranjske.rs/2023-vs-2026-socijalisti-u-vranju-izgubili-vise-od-2-800-glasova/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Izbori2026: Socijalisti ispod cenzuta – Mladenović OČIGLEDNO nije doneo prednost u Vranju",
+        "link": "https://infovranjske.rs/izbori2026-socijalisti-ispod-cenzuta-mladenovic-ocigledno-nije-doneo-prednost-u-vranju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Izbori2026: „Studenti“ napravili odličan rezultat u Vranju!",
+        "link": "https://infovranjske.rs/izbori2026-studenti-napravili-odlican-rezultat-u-vranju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "“Predstoji mnogo posla” poručeno tokom proslave izborne pobede Studentske liste",
+        "link": "https://jugpress.com/predstoji-mnogo-posla-poruceno-tokom-proslave-izborne-pobede-studentske-liste/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "RIK: U Vladičinom Hanu SNS osvojio 53 odsto glasova, studenti drugi,SPS nije prošao cenzus",
+        "link": "https://jugpress.com/rik-u-vladicinom-hanu-sns-osvojio-53-odsto-glasova-studenti-drugisps-nije-prosao-cenzus/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "jugpress.com",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Ko je najbolji na konkursu za kratku priču “Vukašin Conić”",
+        "link": "https://jugpress.com/ko-je-najbolji-na-konkursu-za-kratku-pricu-vukasin-conic/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "Cvetanović: Leskovac je najveći grad gde je SNS pobedio",
+        "link": "https://jugpress.com/cvetanovic-leskovac-je-najveci-grad-gde-je-sns-pobedio/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "27.10.2026"
+    },
+    {
+        "title": "RIK: Na izborima u Surdulici SNS pretekao SPS za pet odsto",
+        "link": "https://jugpress.com/rik-na-izborima-u-surdulici-sns-pretekao-sps-za-pet-odsto/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "jugpress.com",
+        "date": "27.10.2026"
+    },
+    {
         "title": "(BLOG) Vučić priznao poraz - slavlje na ulicama širom Srbije: U parlamentu studenti, SNS i manjinske stranke",
         "link": "https://n1info.rs/vesti/blog-srbija-vanredni-parlamentarni-izbori-25-oktobar-2026/",
         "city": "Bor",
