@@ -1,5 +1,545 @@
 [
     {
+        "title": "Frans 24 analizira da li će Rusiji zaista nedostajati Vučić",
+        "link": "https://n1info.rs/vesti/da-li-ce-rusiji-zaista-nedostajati-vucic/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Priveden i drugi osumnjičeni za napad na dvojicu mladića u Mionici",
+        "link": "https://n1info.rs/vesti/priveden-i-drugi-osumnjiceni-za-napad-na-dvojicu-mladica-u-mionici/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Izrael bez jasnog pobednika: Netanjahu izgubio većinu, Ajzenkot u blagoj prednosti",
+        "link": "https://n1info.rs/svet/izrael-bez-jasnog-pobednika-netanjahu-izgubio-vecinu-ajzenkot-u-blagoj-prednosti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Apsolutni pobednik izbora šalje dve poruke",
+        "link": "https://n1info.rs/vesti/apsolutni-pobednik-izbora-salje-dve-poruke/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Užina od tri sastojka odlična je za snižavanje krvnog pritiska",
+        "link": "https://n1info.rs/magazin/zdravlje/uzina-od-tri-sastojka-odlicna-je-za-snizavanje-krvnog-pritiska/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Flavio Bolsonaro pobegao u SAD posle poraza na izborima u Brazilu",
+        "link": "https://n1info.rs/svet/flavio-bolsonaro-pobegao-u-sad-posle-poraza-na-izborima-u-brazilu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Kalas i Kos: Građani Srbije dali budućoj vladi snažan mandat za promene",
+        "link": "https://n1info.rs/svet/kalas-i-kos-gradjani-srbije-dali-buducoj-vladi-snazan-mandat-za-promene/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Novak Đoković srećan zbog pobede Studentske liste: Najdublje poštovanje studentima koji su pokazali dostojanstvo i istrajnost",
+        "link": "https://n1info.rs/video/sport/novak-djokovic-srecan-zbog-pobede-studenata/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "\"Nisu prezali ni od čega\": Predsednik SDP-a optužio naprednjake za pritiske, ucene, pretnje i kupovinu glasova",
+        "link": "https://n1info.rs/vesti/nisu-prezali-ni-od-cega-predsednik-sdp-a-optuzio-naprednjake-za-pritiske-ucene-pretnje-i-kupovinu-glasova/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Poput Srbije i u Izraelu se čekalo u redovima za glasanje: Da li će Netanjahu nastaviti da vodi državu ili će pasti?",
+        "link": "https://n1info.rs/svet/poput-srbije-i-u-izraelu-se-cekalo-u-redovima-za-glasanje-da-li-ce-netanjahu-nastaviti-da-vodi-drzavu-ili-ce-pasti/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "AP: Pokret mladih u Srbiji pobedio Vučića, ali sprovođenje reformi biće daleko teže",
+        "link": "https://n1info.rs/vesti/ap-pokret-mladih-u-srbiji-pobedio-vucica-ali-sprovodjenje-reformi-bice-daleko-teze/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Studenti pobeđuju iz Leskovca: Pobeda nije dozvola da činimo ono što smo drugima zamerali",
+        "link": "https://n1info.rs/vesti/studenti-pobedjuju-iz-leskovca-pobeda-nije-dozvola-da-cinimo-ono-sto-smo-drugima-zamerali/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Košta čestitao Srdanoviću pobedu Studentske liste",
+        "link": "https://n1info.rs/vesti/kosta-cestitao-srdanovicu-pobedu-studentske-liste/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Sindikat traži ostavku v.d. direktora Službenog glasnika",
+        "link": "https://n1info.rs/vesti/sindikat-trazi-ostavku-vd-direktora-sluzbenog-glasnika/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Pavlović: Želja za pravdom često može biti vučena željom za osvetom, studentski pokret to ne dopušta, uhvatili smo zmiju za rep",
+        "link": "https://n1info.rs/vesti/pavlovic-zelja-za-pravdom-cesto-moze-biti-vucena-zeljom-za-osvetom-studentski-pokret-to-ne-dopusta-uhvatili-smo-zmiju-za-rep/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Krstić: Institucije ne mogu brzo da se formiraju i reformišu, SNS-u poljuljani redovi",
+        "link": "https://n1info.rs/vesti/krstic-institucije-ne-mogu-brzo-da-se-formiraju-i-reformisu-sns-u-poljuljani-redovi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Advokatska komora Beograda traži od policije i tužilaštva da kazne batinaše koji su tukli advokate na izborima",
+        "link": "https://n1info.rs/vesti/advokatska-komora-beograda-trazi-od-policije-i-tuzilastva-da-kazne-batinase-koji-su-tukli-advokate-na-izborima/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "n1info.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Priveden i drugi osumnjičeni za napad na dvojicu mladića u Mionici",
+        "link": "https://nova.rs/vesti/hronika/priveden-i-drugi-osumnjiceni-za-napad-na-dvojicu-mladica-u-mionici/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Oglasila se Vlada Srbije: Vlast se ne može preuzeti mimo procedure",
+        "link": "https://nova.rs/vesti/politika/oglasila-se-vlada-srbije/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Flavio Bolsonaro pobegao iz Brazila: Nakon poraza na izborima otišao u SAD",
+        "link": "https://nova.rs/vesti/svet/flavio-bolsonaro-pobegao-iz-brazila/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "FOTO Kalinić dobio ovacije sa tribina, pa pokazao tri prsta",
+        "link": "https://nova.rs/sport/evroliga/foto-kalinic-dobio-ovacije-sa-tribina-pa-pokazao-tri-prsta/",
+        "city": "Ada",
+        "lat": 45.9261,
+        "lng": 20.1286,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "“Da li ste spremni za Vučićev kontranapad? On dolazi, to je sigurno\": Ivan Marović o mogućem planu bivšeg režima da se vrati na vlast",
+        "link": "https://nova.rs/vesti/politika/da-li-ste-spremni-za-vucicev-kontranapad-on-dolazi-to-je-sigurno-ivan-marovic-o-mogucem-planu-bivseg-rezima-da-se-vrati-na-vlast/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Prosvetna inspekcija sutra u Rektoratu Beogradskog univerziteta zbog izbora Šoškića za redovnog profesora",
+        "link": "https://nova.rs/vesti/drustvo/prosvetna-inspekcija-sutra-u-rektoratu-bu-zbog-dejana-soskica/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "\"Svako ko se nije ogrešio o svog komšiju nema o čemu da strepi\": Važna poruka studenata nakon izborne pobede",
+        "link": "https://nova.rs/vesti/hronika/vazna-poruka-studenata-nakon-pobede-na-izborim-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Predsednik Evropskog saveta čestitao Srdanoviću pobedu Studentske liste",
+        "link": "https://nova.rs/vesti/politika/predsednik-evropskog-saveta-cestitao-srdanovicu-pobedu-studentske-liste/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Vučićev poraz otvara novi problem za Dodika: Preti li mu optužnica zbog vile na Dedinju?",
+        "link": "https://nova.rs/vesti/svet/vucicev-poraz-otvara-novi-problem-za-dodika-preti-li-mu-optuznica-zbog-vile-na-dedinju/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Savo Manojlović: Koji rokovi teku posle izbora i kada zaista počinju promene?",
+        "link": "https://nova.rs/vesti/politika/koji-rokovi-teku-posle-izbora-i-kada-zaista-pocinju-promene/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "VIDEO Novaka pitali za izbore u Srbiji, pogledajte kako je reagovao i pričao o studentima",
+        "link": "https://nova.rs/sport/tenis/video-novak-djokovic-konferencija-izbori-srbija-2026-studenti/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Advokat Radovan Novaković tvrdi da je policija u Užicu tukla mladića u izbornoj noći",
+        "link": "https://nova.rs/vesti/hronika/da-li-je-policija-u-uzicu-tukla-mladica-u-izbornoj-noci/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "nova.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Šta pad Vučića znači za Putina? Frans 24 analizira novu političku realnost u Srbiji",
+        "link": "https://www.danas.rs/svet/sta-pad-vucica-znaci-za-putina-frans-24-analizira-novu-politicku-realnost-u-srbiji/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "SNS Novi Pazar demantuje izjavu SDP o pritisku na birače i kupovini glasova",
+        "link": "https://www.danas.rs/vesti/politika/sns-novi-pazar-demantuje-izjavu-sdp-o-pritisku-na-birace-i-kupovini-glasova/",
+        "city": "Novi Pazar",
+        "lat": 43.1407,
+        "lng": 20.5181,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Tesan rezultat izbora u Izraelu, mogu proći i meseci pre nego što se sazna pobednik",
+        "link": "https://www.danas.rs/svet/tesan-rezultat-izbora-u-izraelu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Vlada Srbije u tehničkom mandatu osudila „napade na institucije i privatnu imovinu“",
+        "link": "https://www.danas.rs/vesti/politika/vlada-srbije-u-tehnickom-mandatu-osudila-napade-na-institucije-i-privatnu-imovinu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "„Plakali smo od sreće, grlili se, urlali POBEDA“: Kako su sagovornici Danasa doživeli Vučićevo priznanje poraza",
+        "link": "https://www.danas.rs/kultura/plakali-smo-od-srece-grlili-se-urlali-pobeda-kako-su-sagovornici-danasa-doziveli-vucicevo-priznanje-poraza/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Nikola Kalinić dizao tri prsta, vređanje Vućića, postizborna atmosfera u Areni (VIDEO)",
+        "link": "https://www.danas.rs/sport/kalinic-otpozdravio-navijacima/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Flavio Bolsonaro pobegao u SAD posle poraza na izborima u Brazilu",
+        "link": "https://www.danas.rs/svet/flavio-bolsonaro-pobegao-u-sad/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Izbori u Izraelu: Netanjahuova stranka zatražila produženje glasanja",
+        "link": "https://www.danas.rs/svet/izbori-u-izraelu-netanjahuova-stranka/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Srbija dobija novu političku scenu: SNS i SPS ponovo postaju stranke bivšeg režima",
+        "link": "https://www.danas.rs/vesti/politika/sns-sps-izborni-poraz-analiza/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "„Srpski studenti zaslužuju Nobela za mir“: Edvard P. Džozef o „dragocenom olakšanju“ za Evropu",
+        "link": "https://www.danas.rs/svet/studenti-nobel-za-mir-edvard-p-dzozef/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Rekordna izlaznost na izborima u Izraelu",
+        "link": "https://www.danas.rs/bbc-news-serbian/rekordna-izlaznost-na-izborima-u-izraelu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Ko je Predrag Popović, čovek koji je uručio Vučiću „otkaz“?",
+        "link": "https://www.danas.rs/vesti/politika/predrag-popovic-biografija/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Francuski ministar: Izbori u Srbiji i Brazilu pokazali da demokratija nije rekla svoju poslednju reč",
+        "link": "https://www.danas.rs/svet/francuski-ministar-izbori-u-srbiji-brazilu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Da li je SNS na dan izbora organizovao batinaške grupe kako bi se izazvali građanski sukobi?",
+        "link": "https://www.danas.rs/vesti/drustvo/sns-batinasi-izbori-sukobi/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "AP: Pokret mladih u Srbiji pobedio Vučića, ali sprovođenje reformi biće daleko teže",
+        "link": "https://www.danas.rs/svet/ap-pokret-mladih-pobedio-vucica/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Predsednik SDP-a optužio naprednjake za pritiske, ucene, pretnje i kupovinu glasova",
+        "link": "https://www.danas.rs/vesti/politika/predsednik-sdp-a-optuzio-naprednjake-za-pritiske-ucene-pretnje-i-kupovinu-glasova/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Reporter Danasa na prvoj slavi SNS posle gubitka izbora: “Ja sam tu od prvog dana, razumeš, nas su bato, lemali žandari“",
+        "link": "https://www.danas.rs/vesti/politika/sns-prva-slava-nakon-izbora/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Antonio Košta čestitao Iliji Srdanoviću pobedu na izborima",
+        "link": "https://www.danas.rs/vesti/politika/antonio-kosta-cestitao-iliji-srdanovicu-pobedu-na-izborima/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Estonski ministar: Pojačati pritisak na Rusiju da ozbiljno shvati pregovore",
+        "link": "https://www.danas.rs/svet/estonski-ministar-pojacati-pritisak/",
+        "city": "Srbija",
+        "lat": 44.0165,
+        "lng": 21.0059,
+        "source": "www.danas.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Izbori: 676 dana od PRVIH protesta u Vranju u organizaciji „Mladih s juga“",
+        "link": "https://infovranjske.rs/izbori-676-dana-od-prvih-protesta-u-vranju-u-organizaciji-mladih-s-juga/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "„Istorijski“ uspeh braće Mladenović: Na „svom“ BIRAČKOM mestu (STABILNO) osvojili 36 glasova",
+        "link": "https://infovranjske.rs/istorijski-uspeh-brace-mladenovic-na-svom-birackom-mestu-stabilno-osvojili-36-glasova/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Dragan Nikolić Nika: Izgubljena je bitka, ali ne i RAT!",
+        "link": "https://infovranjske.rs/dragan-nikolic-nika-izgubljena-je-bitka-ali-ne-i-rat/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Oglasila i odbornička grupa „Hrabro za Vranje“: Ako odgovorimo nasiljem, postaćemo kao oni!",
+        "link": "https://infovranjske.rs/oglasila-i-odbornicka-grupa-hrabro-za-vranje-ako-odgovorimo-nasiljem-postacemo-kao-oni/",
+        "city": "Vranje",
+        "lat": 42.5542,
+        "lng": 21.8972,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Zbor Vranje 017: Ograđujemo se od ponašanja Isidora Stefanovića",
+        "link": "https://infovranjske.rs/zbor-vranje-017-ogradjujemo-se-od-ponasanja-isidora-stefanovica/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Antić: Pozivam Milenkovića i direktora Javnih preduzeća da podnesu OSTAVKE!",
+        "link": "https://infovranjske.rs/antic-pozivam-milenkovica-i-direktora-javnih-preduzeca-da-podnesu-ostavke/",
+        "city": "Niš",
+        "lat": 43.3209,
+        "lng": 21.8958,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Izbori2026: Obrađena sva BIRAČKA MESTA – Studenti osvojili preko 19.500 glasova",
+        "link": "https://infovranjske.rs/izbori2026-obradjena-sva-biracka-mesta-studenti-osvojili-preko-19-500-glasova/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Stigli i rezultati sa BM „Vuk Karadžić“: Studenti osvojili preko 61 odsto!",
+        "link": "https://infovranjske.rs/stigli-i-rezultati-sa-bm-vuk-karadzic-studenti-osvojili-preko-61-odsto/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "infovranjske.rs",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Cvetanović izneo netačan podatak za Bobište, SNS dobio 684 glasa , a ne 750",
+        "link": "https://jugpress.com/cvetanovic-izneo-netacan-podatak-za-bobiste-sns-dobio-684-glasa-a-ne-750/",
+        "city": "Leskovac",
+        "lat": 42.9981,
+        "lng": 21.9461,
+        "source": "jugpress.com",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "SNS pobedio u Bosilegradu",
+        "link": "https://jugpress.com/sns-pobedio-u-bosilegradu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "jugpress.com",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Studenti pobeđuju: Izborni proces i dalje traje, priznavanje poraza odlazećeg vladajućeg režima ne zamenjuje zakonsku i institucionalnu proceduru",
+        "link": "https://jugpress.com/studenti-pobedjuju-izborni-proces-i-dalje-traje-priznavanje-poraza-odlazeceg-vladajuceg-rezima-ne-zamenjuje-zakonsku-i-institucionalnu-proceduru/",
+        "city": "Beograd",
+        "lat": 44.8125,
+        "lng": 20.4612,
+        "source": "jugpress.com",
+        "date": "28.10.2026"
+    },
+    {
+        "title": "Albanska koalicija pobedila u Preševu",
+        "link": "https://jugpress.com/albanska-koalicija-pobedila-u-presevu/",
+        "city": "Bor",
+        "lat": 44.0744,
+        "lng": 22.0959,
+        "source": "jugpress.com",
+        "date": "28.10.2026"
+    },
+    {
         "title": "(BLOG) Drugo veče velikog slavlja u gradovima širom Srbije: Ogroman broj ljudi bio na Slaviji",
         "link": "https://n1info.rs/vesti/blog-26-oktobar-2026-izbori-dan-posle/",
         "city": "Bor",
